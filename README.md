@@ -1,508 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00B4D8,100:0D1117&height=280&section=header&text=AI%20Decision%20Support&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20Intelligence%20Layer%20for%20Business%20Managers&descSize=18&descAlignY=58&descColor=00B4D8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00B4D8,100:0D1117&height=260&section=header&text=AI%20Decision%20Support&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20Intelligence%20Layer%20for%20Business%20Managers&descSize=18&descAlignY=58&descColor=00B4D8" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=00B4D8&center=true&vCenter=true&width=750&height=60&lines=📊+30-Day+Sales+Forecast+%7C+Confidence+Intervals;🤖+XGBoost+Feature+Importance+%7C+What+Drives+Revenue;🎚️+Real-Time+Marketing+Simulator+%7C+What-If+Engine;💡+Plain-English+Recommendations+%7C+Act+With+Clarity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00B4D8&center=true&vCenter=true&width=720&height=55&lines=📊+30-Day+Sales+Forecast+%7C+Confidence+Intervals;🤖+XGBoost+Feature+Importance+%7C+What+Drives+Revenue;🎚️+Real-Time+Marketing+Simulator+%7C+What-If+Engine;💡+Plain-English+Recommendations+%7C+Act+With+Clarity" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PYTHON-3.8%2B-00B4D8?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/STREAMLIT-POWERED-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/PROPHET-FORECASTING-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/XGBOOST-ML-F7931A?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-
-<br/>
-
+<img src="https://img.shields.io/badge/XGBOOST-F7931A?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LICENSE-MIT-2ECC71?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/github/stars/LuthandoCandlovu/ai-decision-support?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C851?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/PRs-WELCOME-E91E63?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  FORECAST  ·  ANALYSE  ·  SIMULATE  ·  DECIDE  ·  WIN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 </div>
 
-<br/>
-
 ---
 
-## ◈ Table of Contents
-
-```
-  01  ·  The Big Picture ──────────── What this is and why it matters
-  02  ·  Live Demo ─────────────────── See it in action
-  03  ·  System Architecture ─────────── How all pieces fit together
-  04  ·  Data Flow Diagram ─────────── From raw CSV to smart insight
-  05  ·  Core Features ─────────────── What you can do with it
-  06  ·  Model Deep Dive ───────────── Prophet & XGBoost explained
-  07  ·  Getting Started ───────────── Install and run in 6 steps
-  08  ·  Usage Guide ───────────────── Dashboard walkthrough
-  09  ·  Project Structure ─────────── File and folder layout
-  10  ·  Tech Stack ────────────────── Tools and libraries
-  11  ·  Performance ───────────────── Benchmarks and accuracy
-  12  ·  Roadmap ───────────────────── What is coming next
-  13  ·  Contributing ──────────────── How to get involved
-  14  ·  License and Contact ─────────── Legal and reach
-```
-
----
-
-<br/>
-
-## 01 · The Big Picture
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "The goal is not to predict the future.                                    ║
-║    The goal is to make better decisions than your competitors."              ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+## 01 · Overview
 
 Most business managers face the same painful reality every Monday morning:
 
-> *"My sales are down this week. Is this a trend or a blip?*  
-> *Should I increase marketing spend? By how much?*  
-> *Which region needs attention first?"*
+> *"My sales are down. Is this a trend or a blip? Should I increase marketing spend? By how much? Which region needs attention first?"*
 
-**This tool answers all three. In seconds.**
+**This tool answers all three questions. In seconds.**
 
-The AI Decision Support System combines **statistical forecasting** with **machine learning interpretability** so that managers — not just data scientists — can understand what is happening, why it is happening, and what to do next.
-
-<br/>
-
-**→ Who is this for?**
+The AI Decision Support System combines **statistical forecasting (Prophet)** with **machine learning interpretability (XGBoost)** inside a sleek Streamlit dashboard. Managers — not just data scientists — can understand what is happening, why it is happening, and what to do next.
 
 | Role | Use Case |
 |------|----------|
 | 📍 Regional Sales Manager | Forecast next month's revenue by region |
-| 📣 Marketing Director | Simulate ROI of increased spend before committing budget |
+| 📣 Marketing Director | Simulate ROI of increased spend before committing |
 | 🏢 Operations Lead | Identify seasonal dips early and plan capacity |
 | 📊 Business Analyst | Validate intuition with data-driven evidence |
 | 🎓 Data Science Student | Real-world ML pipeline to study and extend |
-
-<br/>
 
 ---
 
 ## 02 · Live Demo
 
+> 🎬 *Replace the image below with a screen recording of your dashboard*
+
 <div align="center">
-
-> 🎬 *Record your dashboard and replace the GIF below*  
-> *(Recommended: [ScreenToGif](https://www.screentogif.com/) or [Loom](https://www.loom.com/))*
-
 <img src="images/demo.gif" alt="Dashboard Demo" width="90%"/>
-
-<br/>
-
-```
-  [ SELECT REGION ]──▶[ VIEW FORECAST ]──▶[ ADJUST SPEND ]──▶[ READ INSIGHT ]
-        │                    │                    │                   │
-   Dropdown Menu       Prophet Chart        Slider Widget       Text Banner
-```
-
 </div>
-
-<br/>
 
 ---
 
 ## 03 · System Architecture
 
-> *Built with clean separation of concerns at every layer — testable, readable, and extensible.*
+> A clean 5-layer architecture — each layer has a single responsibility, making the system testable, readable, and easy to extend.
 
 <div align="center">
-
-```
-                        ╔═══════════════════════════════════╗
-                        ║        👤  THE MANAGER            ║
-                        ║  "What will my sales be next      ║
-                        ║   month if I spend 10% more?"     ║
-                        ╚════════════════┬══════════════════╝
-                                         │
-                                         ▼
-╔════════════════════════════════════════════════════════════════════════════╗
-║                        🖥️  PRESENTATION LAYER                             ║
-║                     ┌─────────────────────────────────┐                   ║
-║  SIDEBAR            │   Streamlit Dashboard  · app.py  │   MAIN PANEL     ║
-║  ┌──────────────┐   │                                  │  ┌─────────────┐ ║
-║  │ Region       │   │  ┌─────────┐  ┌──────────────┐  │  │ Sales Chart │ ║
-║  │ Selector     │   │  │ Filters │  │  What-If     │  │  │ + Forecast  │ ║
-║  │              │──▶│  │         │  │  Slider 🎚️   │  │  │             │ ║
-║  │ [North  ▼]   │   │  └────┬────┘  └──────┬───────┘  │  └──────┬──────┘ ║
-║  └──────────────┘   └───────┼──────────────┼──────────┘         │        ║
-║                              │              │                    │        ║
-╚══════════════════════════════╪══════════════╪════════════════════╪════════╝
-                               │              │                    │
-                               ▼              ▼                    ▼
-╔════════════════════════════════════════════════════════════════════════════╗
-║                        ⚙️  APPLICATION LAYER                              ║
-║                                                                            ║
-║  ┌──────────────────────┐       ┌─────────────────────┐                   ║
-║  │  forecast_engine.py  │       │  recommendation.py  │                   ║
-║  │                      │       │                     │                   ║
-║  │  · Load Prophet model│       │  · Trend analysis   │                   ║
-║  │  · Apply spend delta │       │  · Plain-English     │                   ║
-║  │  · Return dataframe  │       │    action messages  │                   ║
-║  └──────────┬───────────┘       └──────────┬──────────┘                   ║
-║             │                              │                               ║
-╚═════════════╪══════════════════════════════╪═══════════════════════════════╝
-              │                              │
-              ▼                              ▼
-╔════════════════════════════════════════════════════════════════════════════╗
-║                         🧠  MODEL LAYER                                   ║
-║                                                                            ║
-║   ┌────────────────────────────┐    ┌────────────────────────────────┐    ║
-║   │  🔮  PROPHET (per region)  │    │   🤖  XGBOOST  (global model)  │    ║
-║   │                            │    │                                │    ║
-║   │  Input:  date, sales,      │    │   Input:  week, region,        │    ║
-║   │          marketing spend   │    │           marketing spend,     │    ║
-║   │                            │    │           month, holiday       │    ║
-║   │  Output: yhat, yhat_lower, │    │                                │    ║
-║   │          yhat_upper,       │    │   Output: feature_importances  │    ║
-║   │          trend, seasonal   │    │           shap_values          │    ║
-║   │                            │    │                                │    ║
-║   │  Saved: prophet_{reg}.json │    │   Saved: xgboost_global.joblib │    ║
-║   └────────────┬───────────────┘    └──────────────┬─────────────────┘    ║
-║                │                                   │                      ║
-╚════════════════╪═══════════════════════════════════╪══════════════════════╝
-                 │                                   │
-                 ▼                                   ▼
-╔════════════════════════════════════════════════════════════════════════════╗
-║                          📦  DATA LAYER                                   ║
-║                                                                            ║
-║   ┌──────────────────────────────────────────────────────────────────┐    ║
-║   │  data/sales_data.csv                                             │    ║
-║   │                                                                  │    ║
-║   │  date       │ region │  sales  │ marketing_spend │ holiday_flag  │    ║
-║   │  ───────────┼────────┼─────────┼─────────────────┼──────────────│    ║
-║   │  2022-01-03 │ North  │ 14,200  │     2,100       │      0       │    ║
-║   │  2022-01-03 │ South  │ 11,800  │     1,750       │      0       │    ║
-║   │  2022-01-10 │ East   │  9,400  │     1,300       │      0       │    ║
-║   │  ...        │ ...    │   ...   │     ...         │     ...      │    ║
-║   └──────────────────────────────────────────────────────────────────┘    ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCIgdmlld0JveD0iMCAwIDkwMCA2MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBBcmlhbCwgc2Fucy1zZXJpZiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwRDExMTc7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzE2MUIyMjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InVzZXJHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFBM0E1QztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMEQyMTM3O3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idWlHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFBMkU0QTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMEYxRTMyO3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYXBwR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxRTJEMUU7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzExMUQxMTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im1vZGVsR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMyRDFFM0E7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFBMEYyMjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImRhdGFHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzJEMkExMDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMUExODBBO3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icHJvcGhldEdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojM0IxRjVDO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMyMzEyNEE7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ4Z2JHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFGM0I1QztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMTIyMzRBO3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzIiByZXN1bHQ9ImNvbG9yZWRCbHVyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iY29sb3JlZEJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNCIgc3RkRGV2aWF0aW9uPSI4IiBmbG9vZC1jb2xvcj0iIzAwMDAwMCIgZmxvb2Qtb3BhY2l0eT0iMC41Ii8+CiAgICA8L2ZpbHRlcj4KICAgIDxtYXJrZXIgaWQ9ImFycm93Qmx1ZSIgbWFya2VyV2lkdGg9IjEwIiBtYXJrZXJIZWlnaHQ9IjciIHJlZlg9IjkiIHJlZlk9IjMuNSIgb3JpZW50PSJhdXRvIj4KICAgICAgPHBvbHlnb24gcG9pbnRzPSIwIDAsIDEwIDMuNSwgMCA3IiBmaWxsPSIjMDBCNEQ4Ii8+CiAgICA8L21hcmtlcj4KICAgIDxtYXJrZXIgaWQ9ImFycm93R3JlZW4iIG1hcmtlcldpZHRoPSIxMCIgbWFya2VySGVpZ2h0PSI3IiByZWZYPSI5IiByZWZZPSIzLjUiIG9yaWVudD0iYXV0byI+CiAgICAgIDxwb2x5Z29uIHBvaW50cz0iMCAwLCAxMCAzLjUsIDAgNyIgZmlsbD0iIzJFQ0M3MSIvPgogICAgPC9tYXJrZXI+CiAgICA8bWFya2VyIGlkPSJhcnJvd1B1cnBsZSIgbWFya2VyV2lkdGg9IjEwIiBtYXJrZXJIZWlnaHQ9IjciIHJlZlg9IjkiIHJlZlk9IjMuNSIgb3JpZW50PSJhdXRvIj4KICAgICAgPHBvbHlnb24gcG9pbnRzPSIwIDAsIDEwIDMuNSwgMCA3IiBmaWxsPSIjOUI1OUI2Ii8+CiAgICA8L21hcmtlcj4KICAgIDxtYXJrZXIgaWQ9ImFycm93T3JhbmdlIiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iNyIgcmVmWD0iOSIgcmVmWT0iMy41IiBvcmllbnQ9ImF1dG8iPgogICAgICA8cG9seWdvbiBwb2ludHM9IjAgMCwgMTAgMy41LCAwIDciIGZpbGw9IiNGMzlDMTIiLz4KICAgIDwvbWFya2VyPgogIDwvZGVmcz4KCiAgPCEtLSBCYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjIwIiBmaWxsPSJ1cmwoI2JnR3JhZCkiIHJ4PSIxNiIvPgoKICA8IS0tIEdyaWQgcGF0dGVybiAtLT4KICA8cGF0dGVybiBpZD0iZ3JpZCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgIDxwYXRoIGQ9Ik0gNDAgMCBMIDAgMCAwIDQwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxRTI1MzAiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPC9wYXR0ZXJuPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjIwIiBmaWxsPSJ1cmwoI2dyaWQpIiByeD0iMTYiIG9wYWNpdHk9IjAuNCIvPgoKICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMzgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwMEI0RDgiIGxldHRlci1zcGFjaW5nPSIyIj5TWVNURU0gQVJDSElURUNUVVJFPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iNTYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0QTYwODAiIGxldHRlci1zcGFjaW5nPSIzIj5BSSBERUNJU0lPTiBTVVBQT1JUIFNZU1RFTTwvdGV4dD4KICA8bGluZSB4MT0iMjAwIiB5MT0iNjYiIHgyPSI3MDAiIHkyPSI2NiIgc3Ryb2tlPSIjMUUzQTUwIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSDilZDilZDilZAgTEFZRVIgMTogVVNFUiDilZDilZDilZAgLS0+CiAgPHJlY3QgeD0iMzMwIiB5PSI3OCIgd2lkdGg9IjI0MCIgaGVpZ2h0PSI2NiIgcng9IjEyIiBmaWxsPSJ1cmwoI3VzZXJHcmFkKSIgc3Ryb2tlPSIjMDBCNEQ4IiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoYWRvdykiLz4KICA8cmVjdCB4PSIzMzAiIHk9Ijc4IiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI4IiByeD0iMTIiIGZpbGw9IiMwMEI0RDgiIG9wYWNpdHk9IjAuMTUiLz4KICA8cmVjdCB4PSIzMzAiIHk9Ijk0IiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMDBCNEQ4IiBvcGFjaXR5PSIwLjA4Ii8+CiAgPHRleHQgeD0iNDUwIiB5PSI5NyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwQjREOCIgbGV0dGVyLXNwYWNpbmc9IjEiPvCfkaQgIEJVU0lORVNTIE1BTkFHRVI8L3RleHQ+CiAgPHRleHQgeD0iNDUwIiB5PSIxMTYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM3RUNFRjAiPiJXaGF0IHdpbGwgbXkgc2FsZXMgYmUgbmV4dCBtb250aD8iPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTMzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNUE4RkFBIj4iU2hvdWxkIEkgaW5jcmVhc2UgbWFya2V0aW5nIHNwZW5kPyI8L3RleHQ+CgogIDwhLS0gQXJyb3c6IFVzZXIg4oaSIFVJIC0tPgogIDxsaW5lIHgxPSI0NTAiIHkxPSIxNDQiIHgyPSI0NTAiIHkyPSIxNjUiIHN0cm9rZT0iIzAwQjREOCIgc3Ryb2tlLXdpZHRoPSIyIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93Qmx1ZSkiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgoKICA8IS0tIOKVkOKVkOKVkCBMQVlFUiAyOiBQUkVTRU5UQVRJT04g4pWQ4pWQ4pWQIC0tPgogIDxyZWN0IHg9IjYwIiB5PSIxNjgiIHdpZHRoPSI3ODAiIGhlaWdodD0iMTIwIiByeD0iMTIiIGZpbGw9InVybCgjdWlHcmFkKSIgc3Ryb2tlPSIjMUU0QTZFIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoYWRvdykiLz4KICA8cmVjdCB4PSI2MCIgeT0iMTY4IiB3aWR0aD0iNzgwIiBoZWlnaHQ9IjI2IiByeD0iMTIiIGZpbGw9IiMwQTJBNDUiIG9wYWNpdHk9IjAuNiIvPgogIDxyZWN0IHg9IjYwIiB5PSIxODAiIHdpZHRoPSI3ODAiIGhlaWdodD0iMTQiIGZpbGw9IiMwQTJBNDUiIG9wYWNpdHk9IjAuMyIvPgogIDx0ZXh0IHg9Ijg0IiB5PSIxODYiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTlGQkYiIGxldHRlci1zcGFjaW5nPSIxIj7wn5alICBQUkVTRU5UQVRJT04gTEFZRVI8L3RleHQ+CiAgPHRleHQgeD0iODIwIiB5PSIxODYiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzJBNUE3MCIgbGV0dGVyLXNwYWNpbmc9IjEiPlNUUkVBTUxJVCBEQVNIQk9BUkQ8L3RleHQ+CgogIDwhLS0gUmVnaW9uIFNlbGVjdG9yIGJveCAtLT4KICA8cmVjdCB4PSI5MCIgeT0iMjA0IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjY4IiByeD0iOCIgZmlsbD0iIzBBMUMyRSIgc3Ryb2tlPSIjMUE0QTZBIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSIxNzAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMDBCNEQ4Ij5SRUdJT04gU0VMRUNUT1I8L3RleHQ+CiAgPHJlY3QgeD0iMTA0IiB5PSIyMjYiIHdpZHRoPSIxMzIiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjMEQyMzM3IiBzdHJva2U9IiMxRTVBN0EiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPHRleHQgeD0iMTcwIiB5PSIyMzkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzdFQ0VGMCI+4pa+ICBOb3J0aCBSZWdpb248L3RleHQ+CiAgPHRleHQgeD0iMTcwIiB5PSIyNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzRBNzA5MCI+c2lkZWJhciDCtyBkcm9wZG93bjwvdGV4dD4KICA8dGV4dCB4PSIxNzAiIHk9IjI2OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjM0E2MDgwIj5zdC5zZWxlY3Rib3goKTwvdGV4dD4KCiAgPCEtLSBXaGF0LUlmIFNsaWRlciBib3ggLS0+CiAgPHJlY3QgeD0iMjcwIiB5PSIyMDQiIHdpZHRoPSIxNjAiIGhlaWdodD0iNjgiIHJ4PSI4IiBmaWxsPSIjMEExQzJFIiBzdHJva2U9IiMxQTRBNkEiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9IjM1MCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwMEI0RDgiPldIQVQtSUYgU0lNVUxBVE9SPC90ZXh0PgogIDxyZWN0IHg9IjI4NCIgeT0iMjI2IiB3aWR0aD0iMTMyIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjMEQyMzM3IiBzdHJva2U9IiMxRTVBN0EiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iMzcwIiBjeT0iMjI5IiByPSI1IiBmaWxsPSIjMDBCNEQ4IiBmaWx0ZXI9InVybCgjZ2xvdykiLz4KICA8dGV4dCB4PSIzNTAiIHk9IjI1MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjN0VDRUYwIj5NYXJrZXRpbmcgU3BlbmQgICsyMCU8L3RleHQ+CiAgPHRleHQgeD0iMzUwIiB5PSIyNjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzRBNzA5MCI+c3Quc2xpZGVyKCkgwrcgcmVhbC10aW1lPC90ZXh0PgogIDx0ZXh0IHg9IjM1MCIgeT0iMjc0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiMzQTYwODAiPm9uX2NoYW5nZSBjYWxsYmFjazwvdGV4dD4KCiAgPCEtLSBGb3JlY2FzdCBDaGFydCBib3ggLS0+CiAgPHJlY3QgeD0iNDUwIiB5PSIyMDQiIHdpZHRoPSIxNjAiIGhlaWdodD0iNjgiIHJ4PSI4IiBmaWxsPSIjMEExQzJFIiBzdHJva2U9IiMxQTRBNkEiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9IjUzMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwMEI0RDgiPkZPUkVDQVNUIENIQVJUPC90ZXh0PgogIDwhLS0gTWluaSBjaGFydCBsaW5lcyAtLT4KICA8cG9seWxpbmUgcG9pbnRzPSI0NjYsMjU0IDQ4MCwyNDQgNDk0LDI0OCA1MDgsMjM4IDUyMiwyNDIgNTM2LDIzNCA1NTAsMjM4IDU2NCwyMjggNTc4LDIzMiA1OTQsMjI0IiBzdHJva2U9IiMwMEI0RDgiIHN0cm9rZS13aWR0aD0iMS4yIiBmaWxsPSJub25lIi8+CiAgPHBvbHlsaW5lIHBvaW50cz0iNTM2LDIzNCA1NTAsMjM4IDU2NCwyMjggNTc4LDIzMiA1OTQsMjI0IiBzdHJva2U9IiNGMzlDMTIiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgc3Ryb2tlLWRhc2hhcnJheT0iMyAyIi8+CiAgPHRleHQgeD0iNTMwIiB5PSIyNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzRBNzA5MCI+UGxvdGx5IMK3IGludGVyYWN0aXZlPC90ZXh0PgogIDx0ZXh0IHg9IjUzMCIgeT0iMjc4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiMzQTYwODAiPnN0LnBsb3RseV9jaGFydCgpPC90ZXh0PgoKICA8IS0tIFJlY29tbWVuZGF0aW9uIGJveCAtLT4KICA8cmVjdCB4PSI2MzAiIHk9IjIwNCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI2OCIgcng9IjgiIGZpbGw9IiMwQTFDMkUiIHN0cm9rZT0iIzFBNEE2QSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNzIwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwQjREOCI+U01BUlQgUkVDT01NRU5EQVRJT048L3RleHQ+CiAgPHJlY3QgeD0iNjQ0IiB5PSIyMjYiIHdpZHRoPSIxNTIiIGhlaWdodD0iMzAiIHJ4PSI0IiBmaWxsPSIjMEQyQTE0IiBzdHJva2U9IiMxQTVBMkEiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPHRleHQgeD0iNzIwIiB5PSIyMzgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzRBREY4MCI+8J+SoSBTYWxlcyB0cmVuZGluZyArOC4zJS48L3RleHQ+CiAgPHRleHQgeD0iNzIwIiB5PSIyNDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzNBQUE2MCI+SW5jcmVhc2UgTm9ydGggYnVkZ2V0LjwvdGV4dD4KICA8dGV4dCB4PSI3MjAiIHk9IjI2OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNEE3MDkwIj5yZWNvbW1lbmRhdGlvbi5weTwvdGV4dD4KICA8dGV4dCB4PSI3MjAiIHk9IjI3OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjM0E2MDgwIj5wbGFpbi1FbmdsaXNoIG91dHB1dDwvdGV4dD4KCiAgPCEtLSBBcnJvd3M6IFVJIGNvbXBvbmVudHMg4oaSIEFwcGxpY2F0aW9uIExheWVyIC0tPgogIDxsaW5lIHgxPSIyNjUiIHkxPSIyNjgiIHgyPSIyNjUiIHkyPSIzMTAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3dHcmVlbikiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgogIDxsaW5lIHgxPSIzNTAiIHkxPSIyNzIiIHgyPSIzNTAiIHkyPSIzMTAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3dHcmVlbikiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgogIDxsaW5lIHgxPSI1MzAiIHkxPSIyNzIiIHgyPSI1MzAiIHkyPSIzMTAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3dHcmVlbikiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgogIDxsaW5lIHgxPSI3MjAiIHkxPSIyNzIiIHgyPSI3MjAiIHkyPSIzMTAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3dHcmVlbikiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgoKICA8IS0tIOKVkOKVkOKVkCBMQVlFUiAzOiBBUFBMSUNBVElPTiDilZDilZDilZAgLS0+CiAgPHJlY3QgeD0iNjAiIHk9IjMxMiIgd2lkdGg9Ijc4MCIgaGVpZ2h0PSIxMTAiIHJ4PSIxMiIgZmlsbD0idXJsKCNhcHBHcmFkKSIgc3Ryb2tlPSIjMUU0QTFFIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoYWRvdykiLz4KICA8cmVjdCB4PSI2MCIgeT0iMzEyIiB3aWR0aD0iNzgwIiBoZWlnaHQ9IjI2IiByeD0iMTIiIGZpbGw9IiMwQTI1MEEiIG9wYWNpdHk9IjAuNiIvPgogIDxyZWN0IHg9IjYwIiB5PSIzMjUiIHdpZHRoPSI3ODAiIGhlaWdodD0iMTMiIGZpbGw9IiMwQTI1MEEiIG9wYWNpdHk9IjAuMyIvPgogIDx0ZXh0IHg9Ijg0IiB5PSIzMzAiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMyRUNDNzEiIGxldHRlci1zcGFjaW5nPSIxIj7impkgIEFQUExJQ0FUSU9OIExBWUVSPC90ZXh0PgogIDx0ZXh0IHg9IjgyMCIgeT0iMzMwIiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LXNpemU9IjkiIGZpbGw9IiMxQTZBMUEiIGxldHRlci1zcGFjaW5nPSIxIj5CVVNJTkVTUyBMT0dJQzwvdGV4dD4KCiAgPCEtLSBmb3JlY2FzdF9lbmdpbmUucHkgLS0+CiAgPHJlY3QgeD0iOTAiIHk9IjM0NyIgd2lkdGg9IjIyMCIgaGVpZ2h0PSI2NCIgcng9IjgiIGZpbGw9IiMwQTFBMEEiIHN0cm9rZT0iIzFBNUExQSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iMjAwIiB5PSIzNjMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzJFQ0M3MSI+Zm9yZWNhc3RfZW5naW5lLnB5PC90ZXh0PgogIDx0ZXh0IHg9IjIwMCIgeT0iMzc4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzRBREY4MCI+wrcgTG9hZCBzZXJpYWxpemVkIFByb3BoZXQgbW9kZWw8L3RleHQ+CiAgPHRleHQgeD0iMjAwIiB5PSIzOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjNEFERjgwIj7CtyBBcHBseSBzcGVuZCBkZWx0YSB0byBmdXR1cmVfZGY8L3RleHQ+CiAgPHRleHQgeD0iMjAwIiB5PSI0MDIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjM0FBQTYwIj7CtyBSZXR1cm4gZm9yZWNhc3QgZGF0YWZyYW1lPC90ZXh0PgoKICA8IS0tIHJlY29tbWVuZGF0aW9uLnB5IC0tPgogIDxyZWN0IHg9IjM0MCIgeT0iMzQ3IiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iIzBBMUEwQSIgc3Ryb2tlPSIjMUE1QTFBIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSI0NTAiIHk9IjM2MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMkVDQzcxIj5yZWNvbW1lbmRhdGlvbi5weTwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjM3OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM0QURGODAiPsK3IEFuYWx5c2UgdHJlbmQgZGlyZWN0aW9uPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMzkwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzRBREY4MCI+wrcgQ29tcHV0ZSBtYWduaXR1ZGUgb2YgY2hhbmdlPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iNDAyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzNBQUE2MCI+wrcgR2VuZXJhdGUgYWN0aW9uIHRleHQ8L3RleHQ+CgogIDwhLS0gY2hhcnRfYnVpbGRlci5weSAtLT4KICA8cmVjdCB4PSI1OTAiIHk9IjM0NyIgd2lkdGg9IjIyMCIgaGVpZ2h0PSI2NCIgcng9IjgiIGZpbGw9IiMwQTFBMEEiIHN0cm9rZT0iIzFBNUExQSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNzAwIiB5PSIzNjMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzJFQ0M3MSI+Y2hhcnRfYnVpbGRlci5weTwvdGV4dD4KICA8dGV4dCB4PSI3MDAiIHk9IjM3OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM0QURGODAiPsK3IEJ1aWxkIFBsb3RseSBmaWd1cmUgb2JqZWN0czwvdGV4dD4KICA8dGV4dCB4PSI3MDAiIHk9IjM5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM0QURGODAiPsK3IEFkZCBjb25maWRlbmNlIGludGVydmFsIHNoYWRpbmc8L3RleHQ+CiAgPHRleHQgeD0iNzAwIiB5PSI0MDIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjM0FBQTYwIj7CtyBBcHBseSByZWdpb24gY29sb3VyIHRoZW1lPC90ZXh0PgoKICA8IS0tIEFycm93czogQXBwIOKGkiBNb2RlbCBMYXllciAtLT4KICA8bGluZSB4MT0iMjAwIiB5MT0iNDExIiB4Mj0iMjAwIiB5Mj0iNDUwIiBzdHJva2U9IiM5QjU5QjYiIHN0cm9rZS13aWR0aD0iMS41IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93UHVycGxlKSIgc3Ryb2tlLWRhc2hhcnJheT0iNCAyIi8+CiAgPGxpbmUgeDE9IjQ1MCIgeTE9IjQxMSIgeDI9IjQ1MCIgeTI9IjQ1MCIgc3Ryb2tlPSIjOUI1OUI2IiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvd1B1cnBsZSkiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgoKICA8IS0tIOKVkOKVkOKVkCBMQVlFUiA0OiBNT0RFTCDilZDilZDilZAgLS0+CiAgPHJlY3QgeD0iNjAiIHk9IjQ1MiIgd2lkdGg9Ijc4MCIgaGVpZ2h0PSIxMTAiIHJ4PSIxMiIgZmlsbD0idXJsKCNtb2RlbEdyYWQpIiBzdHJva2U9IiMzQTFFNUEiIHN0cm9rZS13aWR0aD0iMS41IiBmaWx0ZXI9InVybCgjc2hhZG93KSIvPgogIDxyZWN0IHg9IjYwIiB5PSI0NTIiIHdpZHRoPSI3ODAiIGhlaWdodD0iMjYiIHJ4PSIxMiIgZmlsbD0iIzFBMEEyRSIgb3BhY2l0eT0iMC42Ii8+CiAgPHJlY3QgeD0iNjAiIHk9IjQ2NCIgd2lkdGg9Ijc4MCIgaGVpZ2h0PSIxNCIgZmlsbD0iIzFBMEEyRSIgb3BhY2l0eT0iMC4zIi8+CiAgPHRleHQgeD0iODQiIHk9IjQ3MCIgZm9udC1zaXplPSIxMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzlCNTlCNiIgbGV0dGVyLXNwYWNpbmc9IjEiPvCfp6AgIE1PREVMIExBWUVSPC90ZXh0PgogIDx0ZXh0IHg9IjgyMCIgeT0iNDcwIiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LXNpemU9IjkiIGZpbGw9IiM1QTJBOEEiIGxldHRlci1zcGFjaW5nPSIxIj5NTCBJTkZFUkVOQ0U8L3RleHQ+CgogIDwhLS0gUHJvcGhldCBtb2RlbCAtLT4KICA8cmVjdCB4PSI5MCIgeT0iNDg3IiB3aWR0aD0iMzQwIiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0idXJsKCNwcm9waGV0R3JhZCkiIHN0cm9rZT0iIzVBMkE4QSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iNTEwIiByPSIxNCIgZmlsbD0iIzlCNTlCNiIgb3BhY2l0eT0iMC4yIi8+CiAgPHRleHQgeD0iMTIwIiB5PSI1MTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTQiPvCflK48L3RleHQ+CiAgPHRleHQgeD0iMjYwIiB5PSI1MDMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0MzOUJDRSI+UFJPUEhFVCAgwrcgIFRpbWUgU2VyaWVzIEZvcmVjYXN0PC90ZXh0PgogIDx0ZXh0IHg9IjI2MCIgeT0iNTE3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iI0EwN0FCRSI+cHJvcGhldF9Ob3J0aC5qc29uIMK3IHByb3BoZXRfU291dGguanNvbjwvdGV4dD4KICA8dGV4dCB4PSIyNjAiIHk9IjUyOSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNBMDdBQkUiPnByb3BoZXRfRWFzdC5qc29uICDCtyBwcm9waGV0X1dlc3QuanNvbjwvdGV4dD4KICA8dGV4dCB4PSIyNjAiIHk9IjU0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM4QTYwQTgiPk91dHB1dDogeWhhdCDCtyB5aGF0X2xvd2VyIMK3IHloYXRfdXBwZXI8L3RleHQ+CgogIDwhLS0gWEdCb29zdCBtb2RlbCAtLT4KICA8cmVjdCB4PSI0NTAiIHk9IjQ4NyIgd2lkdGg9IjM3MCIgaGVpZ2h0PSI2NCIgcng9IjgiIGZpbGw9InVybCgjeGdiR3JhZCkiIHN0cm9rZT0iIzFFM0E2QSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGNpcmNsZSBjeD0iNDgwIiBjeT0iNTEwIiByPSIxNCIgZmlsbD0iIzNCODJGNiIgb3BhY2l0eT0iMC4yIi8+CiAgPHRleHQgeD0iNDgwIiB5PSI1MTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTQiPvCfpJY8L3RleHQ+CiAgPHRleHQgeD0iNjQwIiB5PSI1MDMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzdFQ0VGMCI+WEdCT09TVCAgwrcgIEZlYXR1cmUgSW1wb3J0YW5jZTwvdGV4dD4KICA8dGV4dCB4PSI2NDAiIHk9IjUxNyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM1RUFFRDAiPnhnYm9vc3RfZ2xvYmFsLmpvYmxpYjwvdGV4dD4KICA8dGV4dCB4PSI2NDAiIHk9IjUyOSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM1RUFFRDAiPk1hcmtldGluZyBTcGVuZCAwLjQyIMK3IE1vbnRoIDAuMjg8L3RleHQ+CiAgPHRleHQgeD0iNjQwIiB5PSI1NDEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjM0U4RUIwIj5SZWdpb24gMC4xNiDCtyBIb2xpZGF5IDAuMDkgwrcgRGF5IDAuMDU8L3RleHQ+CgogIDwhLS0gQXJyb3dzOiBNb2RlbCDihpIgRGF0YSBMYXllciAtLT4KICA8bGluZSB4MT0iMjYwIiB5MT0iNTUxIiB4Mj0iMjYwIiB5Mj0iNTc2IiBzdHJva2U9IiNGMzlDMTIiIHN0cm9rZS13aWR0aD0iMS41IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93T3JhbmdlKSIgc3Ryb2tlLWRhc2hhcnJheT0iNCAyIi8+CiAgPGxpbmUgeDE9IjY0MCIgeTE9IjU1MSIgeDI9IjY0MCIgeTI9IjU3NiIgc3Ryb2tlPSIjRjM5QzEyIiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvd09yYW5nZSkiIHN0cm9rZS1kYXNoYXJyYXk9IjQgMiIvPgoKICA8IS0tIOKVkOKVkOKVkCBMQVlFUiA1OiBEQVRBIOKVkOKVkOKVkCAtLT4KICA8cmVjdCB4PSI2MCIgeT0iNTc4IiB3aWR0aD0iNzgwIiBoZWlnaHQ9IjI4IiByeD0iMTAiIGZpbGw9InVybCgjZGF0YUdyYWQpIiBzdHJva2U9IiM0QTNBMTAiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHRleHQgeD0iNDUwIiB5PSI1ODciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0YzOUMxMiIgbGV0dGVyLXNwYWNpbmc9IjEiPvCfk6YgIERBVEEgTEFZRVIgIMK3ICBzYWxlc19kYXRhLmNzdjwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjYwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNBQThBMzAiPmRhdGUgwrcgcmVnaW9uIMK3IHNhbGVzIMK3IG1hcmtldGluZ19zcGVuZCDCtyBob2xpZGF5X2ZsYWc8L3RleHQ+CgogIDwhLS0gUmlnaHQgc2lkZSBsZWdlbmQgbGFiZWxzIC0tPgogIDx0ZXh0IHg9Ijg3MCIgeT0iMTExIiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LXNpemU9IjgiIGZpbGw9IiM0QTYwODAiPlVTRVI8L3RleHQ+CiAgPHRleHQgeD0iODcwIiB5PSIyMzAiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzRBNjA4MCI+VUk8L3RleHQ+CiAgPHRleHQgeD0iODcwIiB5PSIzNzAiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzRBNjA4MCI+TE9HSUM8L3RleHQ+CiAgPHRleHQgeD0iODcwIiB5PSI1MTAiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzRBNjA4MCI+TUw8L3RleHQ+CiAgPHRleHQgeD0iODcwIiB5PSI1OTUiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzRBNjA4MCI+REFUQTwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="System Architecture"/>
 
 </div>
 
-<br/>
+**How the layers connect:**
+
+The **Manager** interacts with the **Presentation Layer** (Streamlit dashboard). User actions trigger the **Application Layer** (Python business logic). The application layer calls the **Model Layer** (trained Prophet and XGBoost models). All models were trained on the **Data Layer** (synthetic CSV dataset).
 
 ---
 
-## 04 · Data Flow Diagram
+## 04 · Data Flow
 
-> *Trace a single user action — adjusting the marketing slider — all the way through the system and back.*
+> Trace exactly what happens when a manager drags the marketing spend slider — from browser event to updated forecast in under 100ms.
 
 <div align="center">
-
-```
-  USER DRAGS SLIDER TO +15%
-           │
-           ▼
-  ┌────────────────────────┐
-  │  Streamlit callback    │   on_change triggers
-  │  st.slider()           │──────────────────────▶  new_spend = base × 1.15
-  └────────────────────────┘
-           │
-           ▼
-  ┌────────────────────────┐
-  │  forecast_engine.py    │   Injects new marketing value
-  │  generate_forecast()   │──────────────────────▶  future_df["spend"] = new_spend
-  └────────────────────────┘
-           │
-           ▼
-  ┌────────────────────────┐
-  │  Prophet model         │   Re-runs prediction on future dataframe
-  │  model.predict(df)     │──────────────────────▶  forecast_df with yhat, bounds
-  └────────────────────────┘
-           │
-           ▼
-  ┌────────────────────────┐
-  │  recommendation.py     │   Analyses trend direction and magnitude
-  │  get_recommendation()  │──────────────────────▶  "📈 Sales trending up +8.3%.
-  └────────────────────────┘                           Consider increasing North
-           │                                           region budget by $2,400."
-           ▼
-  ┌────────────────────────┐
-  │  Plotly chart + banner │   Streams to browser via WebSocket
-  │  st.plotly_chart()     │──────────────────────▶  Updated forecast line
-  └────────────────────────┘                           Confidence ribbon refreshed
-           │
-           ▼
-  MANAGER SEES FULL IMPACT IN UNDER 1 SECOND
-```
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDkwMCA0ODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBBcmlhbCwgc2Fucy1zZXJpZiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwRDExMTciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMTYxQjIyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPG1hcmtlciBpZD0iYXJyIiBtYXJrZXJXaWR0aD0iOSIgbWFya2VySGVpZ2h0PSI2IiByZWZYPSI4IiByZWZZPSIzIiBvcmllbnQ9ImF1dG8iPgogICAgICA8cG9seWdvbiBwb2ludHM9IjAgMCwgOSAzLCAwIDYiIGZpbGw9IiMwMEI0RDgiLz4KICAgIDwvbWFya2VyPgogICAgPGZpbHRlciBpZD0iZ2xvdzIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iYmx1ciIvPjxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT48L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9InNoMiI+PGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjMiIHN0ZERldmlhdGlvbj0iNiIgZmxvb2QtY29sb3I9IiMwMDAiIGZsb29kLW9wYWNpdHk9IjAuNSIvPjwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0ODAiIGZpbGw9InVybCgjYmcyKSIgcng9IjE2Ii8+CiAgPHBhdHRlcm4gaWQ9ImRvdHMiIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSIwLjgiIGZpbGw9IiMxRTI1MzAiLz4KICA8L3BhdHRlcm4+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0ODAiIGZpbGw9InVybCgjZG90cykiIHJ4PSIxNiIgb3BhY2l0eT0iMC42Ii8+CgogIDx0ZXh0IHg9IjQ1MCIgeT0iMzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwMEI0RDgiIGxldHRlci1zcGFjaW5nPSIyIj5EQVRBIEZMT1cgIMK3ICBXSEFULUlGIFNJTVVMQVRJT048L3RleHQ+CiAgPHRleHQgeD0iNDUwIiB5PSI1MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzNBNUE3MCIgbGV0dGVyLXNwYWNpbmc9IjMiPlRSQUNJTkcgQSBTSU5HTEUgU0xJREVSIEFDVElPTiBUSFJPVUdIIFRIRSBFTlRJUkUgU1lTVEVNPC90ZXh0PgogIDxsaW5lIHgxPSIxMjAiIHkxPSI2MiIgeDI9Ijc4MCIgeTI9IjYyIiBzdHJva2U9IiMxQTNBNTAiIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIFN0ZXAgYm94ZXMg4oCUIHZlcnRpY2FsIGZsb3cgbGVmdCBjb2x1bW4gLS0+CiAgPCEtLSBTdGVwIDEgLS0+CiAgPHJlY3QgeD0iNjAiIHk9Ijc4IiB3aWR0aD0iMzQwIiBoZWlnaHQ9IjU4IiByeD0iMTAiIGZpbGw9IiMwRDFFMzAiIHN0cm9rZT0iIzAwQjREOCIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbHRlcj0idXJsKCNzaDIpIi8+CiAgPHJlY3QgeD0iNjAiIHk9Ijc4IiB3aWR0aD0iMzQwIiBoZWlnaHQ9IjIwIiByeD0iMTAiIGZpbGw9IiMwMEI0RDgiIG9wYWNpdHk9IjAuMTIiLz4KICA8cmVjdCB4PSI2MCIgeT0iODUiIHdpZHRoPSIzNDAiIGhlaWdodD0iMTIiIGZpbGw9IiMwMEI0RDgiIG9wYWNpdHk9IjAuMDYiLz4KICA8Y2lyY2xlIGN4PSI4OCIgY3k9IjEwNyIgcj0iMTIiIGZpbGw9IiMwMEI0RDgiIG9wYWNpdHk9IjAuMTUiLz4KICA8dGV4dCB4PSI4OCIgeT0iMTExIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMDBCNEQ4Ij4xPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iOTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwQjREOCIgbGV0dGVyLXNwYWNpbmc9IjEiPlVTRVIgRFJBR1MgU0xJREVSPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiM3RUNFRjAiPnN0LnNsaWRlcigpICDCtyAgb25fY2hhbmdlIGZpcmVzPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMTI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiM0QThBQUEiPm5ld19zcGVuZCA9IGJhc2Vfc3BlbmQgw5cgMS4yMDwvdGV4dD4KCiAgPCEtLSBBcnJvdyAx4oaSMiAtLT4KICA8bGluZSB4MT0iMjMwIiB5MT0iMTM2IiB4Mj0iMjMwIiB5Mj0iMTU4IiBzdHJva2U9IiMwMEI0RDgiIHN0cm9rZS13aWR0aD0iMiIgbWFya2VyLWVuZD0idXJsKCNhcnIpIi8+CiAgPHRleHQgeD0iMjQ4IiB5PSIxNTAiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzNBNkE4MCI+aW5qZWN0PC90ZXh0PgoKICA8IS0tIFN0ZXAgMiAtLT4KICA8cmVjdCB4PSI2MCIgeT0iMTYwIiB3aWR0aD0iMzQwIiBoZWlnaHQ9IjU4IiByeD0iMTAiIGZpbGw9IiMwRDFFMzAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbHRlcj0idXJsKCNzaDIpIi8+CiAgPHJlY3QgeD0iNjAiIHk9IjE2MCIgd2lkdGg9IjM0MCIgaGVpZ2h0PSIyMCIgcng9IjEwIiBmaWxsPSIjMkVDQzcxIiBvcGFjaXR5PSIwLjEiLz4KICA8Y2lyY2xlIGN4PSI4OCIgY3k9IjE5MCIgcj0iMTIiIGZpbGw9IiMyRUNDNzEiIG9wYWNpdHk9IjAuMTUiLz4KICA8dGV4dCB4PSI4OCIgeT0iMTk0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMkVDQzcxIj4yPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMTc4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMyRUNDNzEiIGxldHRlci1zcGFjaW5nPSIxIj5GT1JFQ0FTVCBFTkdJTkU8L3RleHQ+CiAgPHRleHQgeD0iMjgwIiB5PSIxOTMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzRBREY4MCI+Zm9yZWNhc3RfZW5naW5lLnB5ICDCtyAgZ2VuZXJhdGVfZm9yZWNhc3QoKTwvdGV4dD4KICA8dGV4dCB4PSIyODAiIHk9IjIwNyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjM0FBQTYwIj5mdXR1cmVfZGZbIm1hcmtldGluZ19zcGVuZCJdID0gbmV3X3NwZW5kPC90ZXh0PgoKICA8IS0tIEFycm93IDLihpIzIC0tPgogIDxsaW5lIHgxPSIyMzAiIHkxPSIyMTgiIHgyPSIyMzAiIHkyPSIyNDAiIHN0cm9rZT0iIzJFQ0M3MSIgc3Ryb2tlLXdpZHRoPSIyIiBtYXJrZXItZW5kPSJ1cmwoI2FycikiLz4KICA8dGV4dCB4PSIyNDgiIHk9IjIzMiIgZm9udC1zaXplPSI4IiBmaWxsPSIjMUE4QTMwIj5wcmVkaWN0PC90ZXh0PgoKICA8IS0tIFN0ZXAgMyAtLT4KICA8cmVjdCB4PSI2MCIgeT0iMjQyIiB3aWR0aD0iMzQwIiBoZWlnaHQ9IjU4IiByeD0iMTAiIGZpbGw9IiMwRDFFMzAiIHN0cm9rZT0iIzlCNTlCNiIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbHRlcj0idXJsKCNzaDIpIi8+CiAgPHJlY3QgeD0iNjAiIHk9IjI0MiIgd2lkdGg9IjM0MCIgaGVpZ2h0PSIyMCIgcng9IjEwIiBmaWxsPSIjOUI1OUI2IiBvcGFjaXR5PSIwLjEiLz4KICA8Y2lyY2xlIGN4PSI4OCIgY3k9IjI3MiIgcj0iMTIiIGZpbGw9IiM5QjU5QjYiIG9wYWNpdHk9IjAuMTUiLz4KICA8dGV4dCB4PSI4OCIgeT0iMjc2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjOUI1OUI2Ij4zPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMjYwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM5QjU5QjYiIGxldHRlci1zcGFjaW5nPSIxIj5QUk9QSEVUIE1PREVMPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMjc1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiNDMzlCQ0UiPm1vZGVsLnByZWRpY3QoZnV0dXJlX2RmKTwvdGV4dD4KICA8dGV4dCB4PSIyODAiIHk9IjI4OSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjQTA3MEI4Ij5SZXR1cm5zICB5aGF0IMK3IHloYXRfbG93ZXIgwrcgeWhhdF91cHBlcjwvdGV4dD4KCiAgPCEtLSBBcnJvdyAz4oaSNCAtLT4KICA8bGluZSB4MT0iMjMwIiB5MT0iMzAwIiB4Mj0iMjMwIiB5Mj0iMzIyIiBzdHJva2U9IiM5QjU5QjYiIHN0cm9rZS13aWR0aD0iMiIgbWFya2VyLWVuZD0idXJsKCNhcnIpIi8+CiAgPHRleHQgeD0iMjQ4IiB5PSIzMTUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzVBMkE4QSI+YW5hbHlzZTwvdGV4dD4KCiAgPCEtLSBTdGVwIDQgLS0+CiAgPHJlY3QgeD0iNjAiIHk9IjMyNCIgd2lkdGg9IjM0MCIgaGVpZ2h0PSI1OCIgcng9IjEwIiBmaWxsPSIjMEQxRTMwIiBzdHJva2U9IiNGMzlDMTIiIHN0cm9rZS13aWR0aD0iMS41IiBmaWx0ZXI9InVybCgjc2gyKSIvPgogIDxyZWN0IHg9IjYwIiB5PSIzMjQiIHdpZHRoPSIzNDAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iI0YzOUMxMiIgb3BhY2l0eT0iMC4xIi8+CiAgPGNpcmNsZSBjeD0iODgiIGN5PSIzNTQiIHI9IjEyIiBmaWxsPSIjRjM5QzEyIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHRleHQgeD0iODgiIHk9IjM1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0YzOUMxMiI+NDwvdGV4dD4KICA8dGV4dCB4PSIyODAiIHk9IjM0MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjRjM5QzEyIiBsZXR0ZXItc3BhY2luZz0iMSI+UkVDT01NRU5EQVRJT04gRU5HSU5FPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iMzU3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiNGQUM4NzciPnJlY29tbWVuZGF0aW9uLnB5ICDCtyAgZ2V0X3JlY29tbWVuZGF0aW9uKCk8L3RleHQ+CiAgPHRleHQgeD0iMjgwIiB5PSIzNzEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0JBODgzMCI+IlNhbGVzIHRyZW5kaW5nIHVwICs4LjMlIOKAlCBpbmNyZWFzZSBzcGVuZCI8L3RleHQ+CgogIDwhLS0gQXJyb3cgNOKGkjUgLS0+CiAgPGxpbmUgeDE9IjIzMCIgeTE9IjM4MiIgeDI9IjIzMCIgeTI9IjQwNCIgc3Ryb2tlPSIjRjM5QzEyIiBzdHJva2Utd2lkdGg9IjIiIG1hcmtlci1lbmQ9InVybCgjYXJyKSIvPgogIDx0ZXh0IHg9IjI0OCIgeT0iMzk2IiBmb250LXNpemU9IjgiIGZpbGw9IiM4QTVBMTAiPnJlbmRlcjwvdGV4dD4KCiAgPCEtLSBTdGVwIDUgLS0+CiAgPHJlY3QgeD0iNjAiIHk9IjQwNiIgd2lkdGg9IjM0MCIgaGVpZ2h0PSI1MiIgcng9IjEwIiBmaWxsPSIjMEQxRTMwIiBzdHJva2U9IiNFNzRDM0MiIHN0cm9rZS13aWR0aD0iMS41IiBmaWx0ZXI9InVybCgjc2gyKSIvPgogIDxyZWN0IHg9IjYwIiB5PSI0MDYiIHdpZHRoPSIzNDAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iI0U3NEMzQyIgb3BhY2l0eT0iMC4xIi8+CiAgPGNpcmNsZSBjeD0iODgiIGN5PSI0MzIiIHI9IjEyIiBmaWxsPSIjRTc0QzNDIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHRleHQgeD0iODgiIHk9IjQzNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0U3NEMzQyI+NTwvdGV4dD4KICA8dGV4dCB4PSIyODAiIHk9IjQyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjRTc0QzNDIiBsZXR0ZXItc3BhY2luZz0iMSI+QlJPV1NFUiBVUERBVEUgIMK3ICAmbHQ7IDEwMG1zPC90ZXh0PgogIDx0ZXh0IHg9IjI4MCIgeT0iNDM5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZpbGw9IiNGMDkwN0MiPnN0LnBsb3RseV9jaGFydCgpICArICBzdC5pbmZvKCk8L3RleHQ+CiAgPHRleHQgeD0iMjgwIiB5PSI0NTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0MwNjA1MCI+Rm9yZWNhc3QgbGluZSB1cGRhdGVzIMK3IFJpYmJvbiByZWRyYXdzPC90ZXh0PgoKICA8IS0tIFJpZ2h0IGNvbHVtbjogb3V0cHV0IHByZXZpZXcgLS0+CiAgPHJlY3QgeD0iNTAwIiB5PSI3OCIgd2lkdGg9IjM2MCIgaGVpZ2h0PSIzODAiIHJ4PSIxMiIgZmlsbD0iIzA4MEUxNCIgc3Ryb2tlPSIjMUEzQTUwIiBzdHJva2Utd2lkdGg9IjEiIGZpbHRlcj0idXJsKCNzaDIpIi8+CiAgPHJlY3QgeD0iNTAwIiB5PSI3OCIgd2lkdGg9IjM2MCIgaGVpZ2h0PSIyNiIgcng9IjEyIiBmaWxsPSIjMEEyMDM1IiBvcGFjaXR5PSIwLjgiLz4KICA8dGV4dCB4PSI2ODAiIHk9Ijk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QThBQUEiIGxldHRlci1zcGFjaW5nPSIxIj5EQVNIQk9BUkQgT1VUUFVUIFBSRVZJRVc8L3RleHQ+CgogIDwhLS0gTWluaSBmb3JlY2FzdCBjaGFydCAtLT4KICA8dGV4dCB4PSI1MjAiIHk9IjEyMCIgZm9udC1zaXplPSI4IiBmaWxsPSIjM0E2MDgwIj5GT1JFQ0FTVCBDSEFSVDwvdGV4dD4KICA8cmVjdCB4PSI1MjAiIHk9IjEyNiIgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxMDAiIHJ4PSI2IiBmaWxsPSIjMEExNTIwIiBzdHJva2U9IiMxQTNBNTAiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPCEtLSBBeGVzIC0tPgogIDxsaW5lIHgxPSI1MzYiIHkxPSIyMTYiIHgyPSI4MjgiIHkyPSIyMTYiIHN0cm9rZT0iIzFBM0E1MCIgc3Ryb2tlLXdpZHRoPSIwLjgiLz4KICA8bGluZSB4MT0iNTM2IiB5MT0iMTM2IiB4Mj0iNTM2IiB5Mj0iMjE2IiBzdHJva2U9IiMxQTNBNTAiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPCEtLSBDb25maWRlbmNlIGJhbmQgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSI2MTAsMTk1IDYzMCwxODggNjYwLDE4MiA3MDAsMTc1IDc0MCwxNzAgNzgwLDE2NSA4MjAsMTYyIDgyMCwxNzUgNzgwLDE3OCA3NDAsMTg0IDcwMCwxODggNjYwLDE5NCA2MzAsMjAwIDYxMCwyMDYiIGZpbGw9IiMwMEI0RDgiIG9wYWNpdHk9IjAuMTIiLz4KICA8IS0tIEFjdHVhbCBsaW5lIC0tPgogIDxwb2x5bGluZSBwb2ludHM9IjU0MCwxOTYgNTYwLDE5MCA1ODAsMTkzIDYwMCwxODUgNjEwLDE5NSA2MzAsMTg4IiBzdHJva2U9IiM0QThBQUEiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+CiAgPCEtLSBGb3JlY2FzdCBsaW5lIC0tPgogIDxwb2x5bGluZSBwb2ludHM9IjYzMCwxODggNjYwLDE4MiA3MDAsMTc1IDc0MCwxNzAgNzgwLDE2NSA4MjAsMTYyIiBzdHJva2U9IiMwMEI0RDgiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIiBzdHJva2UtZGFzaGFycmF5PSI1IDMiLz4KICA8IS0tIFZlcnRpY2FsIHNlcGFyYXRvciAodG9kYXkpIC0tPgogIDxsaW5lIHgxPSI2MzAiIHkxPSIxMzYiIHgyPSI2MzAiIHkyPSIyMTYiIHN0cm9rZT0iI0YzOUMxMiIgc3Ryb2tlLXdpZHRoPSIwLjgiIHN0cm9rZS1kYXNoYXJyYXk9IjMgMiIvPgogIDx0ZXh0IHg9IjYzMiIgeT0iMTQ4IiBmb250LXNpemU9IjciIGZpbGw9IiNGMzlDMTIiPnRvZGF5PC90ZXh0PgogIDx0ZXh0IHg9IjcwMCIgeT0iMTQ4IiBmb250LXNpemU9IjciIGZpbGw9IiMwMEI0RDgiPuKAlCBmb3JlY2FzdDwvdGV4dD4KICA8dGV4dCB4PSI3MDAiIHk9IjE1OCIgZm9udC1zaXplPSI3IiBmaWxsPSIjNEE4QUFBIj7igJQgYWN0dWFsPC90ZXh0PgoKICA8IS0tIEZlYXR1cmUgaW1wb3J0YW5jZSBiYXJzIC0tPgogIDx0ZXh0IHg9IjUyMCIgeT0iMjQ4IiBmb250LXNpemU9IjgiIGZpbGw9IiMzQTYwODAiPkZFQVRVUkUgSU1QT1JUQU5DRTwvdGV4dD4KICA8cmVjdCB4PSI1MjAiIHk9IjI1NCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSI5NiIgcng9IjYiIGZpbGw9IiMwQTE1MjAiIHN0cm9rZT0iIzFBM0E1MCIgc3Ryb2tlLXdpZHRoPSIwLjgiLz4KICA8IS0tIEJhciByb3dzIC0tPgogIDx0ZXh0IHg9IjUzNCIgeT0iMjcyIiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzdFQ0VGMCI+TWFya2V0aW5nIFNwZW5kPC90ZXh0PgogIDxyZWN0IHg9IjY0MCIgeT0iMjYzIiB3aWR0aD0iMTY4IiBoZWlnaHQ9IjEwIiByeD0iMyIgZmlsbD0iIzAwQjREOCIgb3BhY2l0eT0iMC44Ii8+CiAgPHRleHQgeD0iODE0IiB5PSIyNzIiIGZvbnQtc2l6ZT0iNyIgZmlsbD0iIzRBOEFBQSI+MC40MjwvdGV4dD4KICA8dGV4dCB4PSI1MzQiIHk9IjI4OCIgZm9udC1zaXplPSI3LjUiIGZpbGw9IiM3RUNFRjAiPk1vbnRoIG9mIFllYXI8L3RleHQ+CiAgPHJlY3QgeD0iNjQwIiB5PSIyNzkiIHdpZHRoPSIxMTIiIGhlaWdodD0iMTAiIHJ4PSIzIiBmaWxsPSIjMkVDQzcxIiBvcGFjaXR5PSIwLjgiLz4KICA8dGV4dCB4PSI3NTgiIHk9IjI4OCIgZm9udC1zaXplPSI3IiBmaWxsPSIjNEE4QUFBIj4wLjI4PC90ZXh0PgogIDx0ZXh0IHg9IjUzNCIgeT0iMzA0IiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzdFQ0VGMCI+UmVnaW9uPC90ZXh0PgogIDxyZWN0IHg9IjY0MCIgeT0iMjk1IiB3aWR0aD0iNjQiIGhlaWdodD0iMTAiIHJ4PSIzIiBmaWxsPSIjOUI1OUI2IiBvcGFjaXR5PSIwLjgiLz4KICA8dGV4dCB4PSI3MTAiIHk9IjMwNCIgZm9udC1zaXplPSI3IiBmaWxsPSIjNEE4QUFBIj4wLjE2PC90ZXh0PgogIDx0ZXh0IHg9IjUzNCIgeT0iMzIwIiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzdFQ0VGMCI+SG9saWRheSBGbGFnPC90ZXh0PgogIDxyZWN0IHg9IjY0MCIgeT0iMzExIiB3aWR0aD0iMzYiIGhlaWdodD0iMTAiIHJ4PSIzIiBmaWxsPSIjRjM5QzEyIiBvcGFjaXR5PSIwLjgiLz4KICA8dGV4dCB4PSI2ODIiIHk9IjMyMCIgZm9udC1zaXplPSI3IiBmaWxsPSIjNEE4QUFBIj4wLjA5PC90ZXh0PgogIDx0ZXh0IHg9IjUzNCIgeT0iMzM2IiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzdFQ0VGMCI+RGF5IG9mIFdlZWs8L3RleHQ+CiAgPHJlY3QgeD0iNjQwIiB5PSIzMjciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxMCIgcng9IjMiIGZpbGw9IiNFNzRDM0MiIG9wYWNpdHk9IjAuOCIvPgogIDx0ZXh0IHg9IjY2NiIgeT0iMzM2IiBmb250LXNpemU9IjciIGZpbGw9IiM0QThBQUEiPjAuMDU8L3RleHQ+CgogIDwhLS0gUmVjb21tZW5kYXRpb24gYm94IC0tPgogIDx0ZXh0IHg9IjUyMCIgeT0iMzcyIiBmb250LXNpemU9IjgiIGZpbGw9IiMzQTYwODAiPlJFQ09NTUVOREFUSU9OPC90ZXh0PgogIDxyZWN0IHg9IjUyMCIgeT0iMzc4IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjY0IiByeD0iNiIgZmlsbD0iIzBBMUEwQSIgc3Ryb2tlPSIjMUE1QTFBIiBzdHJva2Utd2lkdGg9IjAuOCIvPgogIDx0ZXh0IHg9IjUzNCIgeT0iMzk2IiBmb250LXNpemU9IjgiIGZpbGw9IiM0QURGODAiPvCfkqEgIFNhbGVzIHRyZW5kaW5nIHVwICs4LjMlIGluIE5vcnRoIHJlZ2lvbi48L3RleHQ+CiAgPHRleHQgeD0iNTM0IiB5PSI0MTAiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzNBQUE2MCI+QSAxNSUgaW5jcmVhc2UgaW4gbWFya2V0aW5nIHNwZW5kPC90ZXh0PgogIDx0ZXh0IHg9IjUzNCIgeT0iNDI0IiBmb250LXNpemU9IjgiIGZpbGw9IiMzQUFBNjAiPndvdWxkIHN1c3RhaW4gdGhpcyB0cmFqZWN0b3J5LjwvdGV4dD4KICA8dGV4dCB4PSI1MzQiIHk9IjQzOCIgZm9udC1zaXplPSI3LjUiIGZpbGw9IiMyQThBNTAiPlN1Z2dlc3RlZCBhY3Rpb246IG1haW50YWluIGN1cnJlbnQgYnVkZ2V0LjwvdGV4dD4KCiAgPCEtLSBUaW1pbmcgYmFkZ2UgLS0+CiAgPHJlY3QgeD0iNjgwIiB5PSI0MjIiIHdpZHRoPSIxNDAiIGhlaWdodD0iMjQiIHJ4PSI2IiBmaWxsPSIjMDAxQTEwIiBzdHJva2U9IiMyRUNDNzEiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9Ijc1MCIgeT0iNDM4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMyRUNDNzEiPuKaoSAgVXBkYXRlOiAmbHQ7IDEwMG1zPC90ZXh0Pgo8L3N2Zz4K" width="100%" alt="Data Flow Diagram"/>
 
 </div>
 
-<br/>
+**The 5-step journey:**
+
+1. `st.slider()` fires an `on_change` callback with the new spend value
+2. `forecast_engine.py` injects the new spend into the Prophet `future_df`
+3. `model.predict(future_df)` returns `yhat`, `yhat_lower`, and `yhat_upper`
+4. `recommendation.py` analyses the trend direction and magnitude
+5. `st.plotly_chart()` re-renders chart and recommendation banner in under 100ms
 
 ---
 
-## 05 · Core Features
+## 05 · Technology Stack
 
-<br/>
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBBcmlhbCwgc2Fucy1zZXJpZiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnMyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwRDExMTciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMTYxQjIyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0ic2gzIj48ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iMyIgc3RkRGV2aWF0aW9uPSI1IiBmbG9vZC1jb2xvcj0iIzAwMCIgZmxvb2Qtb3BhY2l0eT0iMC40Ii8+PC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2JnMykiIHJ4PSIxNiIvPgogIDxwYXR0ZXJuIGlkPSJncmlkMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgIDxwYXRoIGQ9Ik0gMzAgMCBMIDAgMCAwIDMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxQTFFMjYiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPC9wYXR0ZXJuPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2dyaWQzKSIgcng9IjE2IiBvcGFjaXR5PSIwLjUiLz4KCiAgPHRleHQgeD0iNDUwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwQjREOCIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0hOT0xPR1kgU1RBQ0s8L3RleHQ+CiAgPGxpbmUgeDE9IjIwMCIgeTE9IjQwIiB4Mj0iNzAwIiB5Mj0iNDAiIHN0cm9rZT0iIzFBM0E1MCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gUHl0aG9uIC0tPgogIDxyZWN0IHg9IjQwIiB5PSI1NCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIxMzIiIHJ4PSIxMCIgZmlsbD0iIzBEMUUzMCIgc3Ryb2tlPSIjMzc3NkFCIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoMykiLz4KICA8cmVjdCB4PSI0MCIgeT0iNTQiIHdpZHRoPSIxMDgiIGhlaWdodD0iMzAiIHJ4PSIxMCIgZmlsbD0iIzM3NzZBQiIgb3BhY2l0eT0iMC4yIi8+CiAgPHRleHQgeD0iOTQiIHk9IjY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjIwIj7wn5CNPC90ZXh0PgogIDx0ZXh0IHg9Ijk0IiB5PSI4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjNUE5NkNCIiBsZXR0ZXItc3BhY2luZz0iMSI+Q09SRTwvdGV4dD4KICA8dGV4dCB4PSI5NCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMzc3NkFCIj5QeXRob24gMy44KzwvdGV4dD4KICA8bGluZSB4MT0iNTgiIHkxPSIxMDgiIHgyPSIxMzAiIHkyPSIxMDgiIHN0cm9rZT0iIzFBM0E1MCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8dGV4dCB4PSI5NCIgeT0iMTIyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzRBNzA5MCI+UGFuZGFzIMK3IE51bVB5PC90ZXh0PgogIDx0ZXh0IHg9Ijk0IiB5PSIxMzYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjNEE3MDkwIj5Kb2JsaWIgwrcgc2Npa2l0PC90ZXh0PgogIDx0ZXh0IHg9Ijk0IiB5PSIxNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjNEE3MDkwIj4tbGVhcm48L3RleHQ+CiAgPHJlY3QgeD0iNTgiIHk9IjE2MiIgd2lkdGg9IjcyIiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iIzM3NzZBQiIgb3BhY2l0eT0iMC4xNSIvPgogIDx0ZXh0IHg9Ijk0IiB5PSIxNzMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNy41IiBmaWxsPSIjMzc3NkFCIj5MYW5ndWFnZTwvdGV4dD4KCiAgPCEtLSBTdHJlYW1saXQgLS0+CiAgPHJlY3QgeD0iMTY2IiB5PSI1NCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIxMzIiIHJ4PSIxMCIgZmlsbD0iIzFBMEQwRCIgc3Ryb2tlPSIjRkY0QjRCIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoMykiLz4KICA8cmVjdCB4PSIxNjYiIHk9IjU0IiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjMwIiByeD0iMTAiIGZpbGw9IiNGRjRCNEIiIG9wYWNpdHk9IjAuMTUiLz4KICA8dGV4dCB4PSIyMjAiIHk9IjY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjIwIj7wn46b77iPPC90ZXh0PgogIDx0ZXh0IHg9IjIyMCIgeT0iODQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0ZGNzA3MCIgbGV0dGVyLXNwYWNpbmc9IjEiPkRBU0hCT0FSRDwvdGV4dD4KICA8dGV4dCB4PSIyMjAiIHk9IjEwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0ZGNEI0QiI+U3RyZWFtbGl0PC90ZXh0PgogIDxsaW5lIHgxPSIxODQiIHkxPSIxMDgiIHgyPSIyNTYiIHkyPSIxMDgiIHN0cm9rZT0iIzNBMUExQSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8dGV4dCB4PSIyMjAiIHk9IjEyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNBQTYwNjAiPkludGVyYWN0aXZlIFVJPC90ZXh0PgogIDx0ZXh0IHg9IjIyMCIgeT0iMTM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iI0FBNjA2MCI+V2lkZ2V0czwvdGV4dD4KICA8dGV4dCB4PSIyMjAiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNBQTYwNjAiPlJlYWwtdGltZSB1cGRhdGVzPC90ZXh0PgogIDxyZWN0IHg9IjE4NCIgeT0iMTYyIiB3aWR0aD0iNzIiIGhlaWdodD0iMTQiIHJ4PSI0IiBmaWxsPSIjRkY0QjRCIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHRleHQgeD0iMjIwIiB5PSIxNzMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNy41IiBmaWxsPSIjRkY0QjRCIj5Gcm9udGVuZDwvdGV4dD4KCiAgPCEtLSBQcm9waGV0IC0tPgogIDxyZWN0IHg9IjI5MiIgeT0iNTQiIHdpZHRoPSIxMDgiIGhlaWdodD0iMTMyIiByeD0iMTAiIGZpbGw9IiMxQTBEMkEiIHN0cm9rZT0iIzlCNTlCNiIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbHRlcj0idXJsKCNzaDMpIi8+CiAgPHJlY3QgeD0iMjkyIiB5PSI1NCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIzMCIgcng9IjEwIiBmaWxsPSIjOUI1OUI2IiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHRleHQgeD0iMzQ2IiB5PSI2OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMCI+8J+UrjwvdGV4dD4KICA8dGV4dCB4PSIzNDYiIHk9Ijg0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNDMzlCQ0UiIGxldHRlci1zcGFjaW5nPSIxIj5GT1JFQ0FTVDwvdGV4dD4KICA8dGV4dCB4PSIzNDYiIHk9IjEwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzlCNTlCNiI+UHJvcGhldDwvdGV4dD4KICA8bGluZSB4MT0iMzEwIiB5MT0iMTA4IiB4Mj0iMzgyIiB5Mj0iMTA4IiBzdHJva2U9IiMyQTFBM0EiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPHRleHQgeD0iMzQ2IiB5PSIxMjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjOEE2MEE4Ij5UaW1lIFNlcmllczwvdGV4dD4KICA8dGV4dCB4PSIzNDYiIHk9IjEzNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiM4QTYwQTgiPlNlYXNvbmFsaXR5PC90ZXh0PgogIDx0ZXh0IHg9IjM0NiIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzhBNjBBOCI+Q29uZmlkZW5jZSBiYW5kczwvdGV4dD4KICA8cmVjdCB4PSIzMTAiIHk9IjE2MiIgd2lkdGg9IjcyIiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iIzlCNTlCNiIgb3BhY2l0eT0iMC4xNSIvPgogIDx0ZXh0IHg9IjM0NiIgeT0iMTczIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzlCNTlCNiI+Rm9yZWNhc3Rpbmc8L3RleHQ+CgogIDwhLS0gWEdCb29zdCAtLT4KICA8cmVjdCB4PSI0MTgiIHk9IjU0IiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjEzMiIgcng9IjEwIiBmaWxsPSIjMEQxQTBEIiBzdHJva2U9IiMyRUNDNzEiIHN0cm9rZS13aWR0aD0iMS41IiBmaWx0ZXI9InVybCgjc2gzKSIvPgogIDxyZWN0IHg9IjQxOCIgeT0iNTQiIHdpZHRoPSIxMDgiIGhlaWdodD0iMzAiIHJ4PSIxMCIgZmlsbD0iIzJFQ0M3MSIgb3BhY2l0eT0iMC4xMiIvPgogIDx0ZXh0IHg9IjQ3MiIgeT0iNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjAiPvCfpJY8L3RleHQ+CiAgPHRleHQgeD0iNDcyIiB5PSI4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjNEFERjgwIiBsZXR0ZXItc3BhY2luZz0iMSI+TUwgTU9ERUw8L3RleHQ+CiAgPHRleHQgeD0iNDcyIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMyRUNDNzEiPlhHQm9vc3Q8L3RleHQ+CiAgPGxpbmUgeDE9IjQzNiIgeTE9IjEwOCIgeDI9IjUwOCIgeTI9IjEwOCIgc3Ryb2tlPSIjMUEzQTFBIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogIDx0ZXh0IHg9IjQ3MiIgeT0iMTIyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzNBQUE2MCI+RmVhdHVyZSBJbXBvcnRhbmNlPC90ZXh0PgogIDx0ZXh0IHg9IjQ3MiIgeT0iMTM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzNBQUE2MCI+R3JhZGllbnQgYm9vc3Rpbmc8L3RleHQ+CiAgPHRleHQgeD0iNDcyIiB5PSIxNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjM0FBQTYwIj5TSEFQIChwbGFubmVkKTwvdGV4dD4KICA8cmVjdCB4PSI0MzYiIHk9IjE2MiIgd2lkdGg9IjcyIiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iIzJFQ0M3MSIgb3BhY2l0eT0iMC4xMiIvPgogIDx0ZXh0IHg9IjQ3MiIgeT0iMTczIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzJFQ0M3MSI+SW50ZXJwcmV0YWJpbGl0eTwvdGV4dD4KCiAgPCEtLSBQbG90bHkgLS0+CiAgPHJlY3QgeD0iNTQ0IiB5PSI1NCIgd2lkdGg9IjEwOCIgaGVpZ2h0PSIxMzIiIHJ4PSIxMCIgZmlsbD0iIzBEMTAyMCIgc3Ryb2tlPSIjM0Y0Rjc1IiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI3NoMykiLz4KICA8cmVjdCB4PSI1NDQiIHk9IjU0IiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjMwIiByeD0iMTAiIGZpbGw9IiMzRjRGNzUiIG9wYWNpdHk9IjAuMyIvPgogIDx0ZXh0IHg9IjU5OCIgeT0iNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjAiPvCfk4o8L3RleHQ+CiAgPHRleHQgeD0iNTk4IiB5PSI4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjN0E4QUFBIiBsZXR0ZXItc3BhY2luZz0iMSI+Q0hBUlRTPC90ZXh0PgogIDx0ZXh0IHg9IjU5OCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0Y0Rjc1Ij5QbG90bHk8L3RleHQ+CiAgPGxpbmUgeDE9IjU2MiIgeTE9IjEwOCIgeDI9IjYzNCIgeTI9IjEwOCIgc3Ryb2tlPSIjMUExRTMwIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogIDx0ZXh0IHg9IjU5OCIgeT0iMTIyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzVBNkE4QSI+SW50ZXJhY3RpdmUgY2hhcnRzPC90ZXh0PgogIDx0ZXh0IHg9IjU5OCIgeT0iMTM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzVBNkE4QSI+Wm9vbSDCtyBQYW4gwrcgSG92ZXI8L3RleHQ+CiAgPHRleHQgeD0iNTk4IiB5PSIxNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjNUE2QThBIj5QTkcgZXhwb3J0PC90ZXh0PgogIDxyZWN0IHg9IjU2MiIgeT0iMTYyIiB3aWR0aD0iNzIiIGhlaWdodD0iMTQiIHJ4PSI0IiBmaWxsPSIjM0Y0Rjc1IiBvcGFjaXR5PSIwLjMiLz4KICA8dGV4dCB4PSI1OTgiIHk9IjE3MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI3LjUiIGZpbGw9IiM3QThBQUEiPlZpc3VhbGlzYXRpb248L3RleHQ+CgogIDwhLS0gRGF0YSAvIEpvYmxpYiAtLT4KICA8cmVjdCB4PSI2NzAiIHk9IjU0IiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjEzMiIgcng9IjEwIiBmaWxsPSIjMUExMDAwIiBzdHJva2U9IiNGMzlDMTIiIHN0cm9rZS13aWR0aD0iMS41IiBmaWx0ZXI9InVybCgjc2gzKSIvPgogIDxyZWN0IHg9IjY3MCIgeT0iNTQiIHdpZHRoPSIxMDgiIGhlaWdodD0iMzAiIHJ4PSIxMCIgZmlsbD0iI0YzOUMxMiIgb3BhY2l0eT0iMC4xMiIvPgogIDx0ZXh0IHg9IjcyNCIgeT0iNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjAiPvCfkr48L3RleHQ+CiAgPHRleHQgeD0iNzI0IiB5PSI4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjRkFDODc3IiBsZXR0ZXItc3BhY2luZz0iMSI+REFUQTwvdGV4dD4KICA8dGV4dCB4PSI3MjQiIHk9IjEwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0YzOUMxMiI+Sm9ibGliICsgQ1NWPC90ZXh0PgogIDxsaW5lIHgxPSI2ODgiIHkxPSIxMDgiIHgyPSI3NjAiIHkyPSIxMDgiIHN0cm9rZT0iIzJBMUEwMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8dGV4dCB4PSI3MjQiIHk9IjEyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNCQTgwMzAiPk1vZGVsIHNlcmlhbGlzZTwvdGV4dD4KICA8dGV4dCB4PSI3MjQiIHk9IjEzNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiNCQTgwMzAiPnNhbGVzX2RhdGEuY3N2PC90ZXh0PgogIDx0ZXh0IHg9IjcyNCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjguNSIgZmlsbD0iI0JBODAzMCI+U3ludGhldGljIGRhdGFzZXQ8L3RleHQ+CiAgPHJlY3QgeD0iNjg4IiB5PSIxNjIiIHdpZHRoPSI3MiIgaGVpZ2h0PSIxNCIgcng9IjQiIGZpbGw9IiNGMzlDMTIiIG9wYWNpdHk9IjAuMTIiLz4KICA8dGV4dCB4PSI3MjQiIHk9IjE3MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI3LjUiIGZpbGw9IiNGMzlDMTIiPlBlcnNpc3RlbmNlPC90ZXh0PgoKICA8IS0tIFN0cmVhbWxpdCBDbG91ZCAtLT4KICA8cmVjdCB4PSI3OTYiIHk9IjU0IiB3aWR0aD0iODgiIGhlaWdodD0iMTMyIiByeD0iMTAiIGZpbGw9IiMwRDFBMUEiIHN0cm9rZT0iIzAwQjREOCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1kYXNoYXJyYXk9IjUgMyIgZmlsdGVyPSJ1cmwoI3NoMykiLz4KICA8dGV4dCB4PSI4NDAiIHk9IjY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjIwIj7imIHvuI88L3RleHQ+CiAgPHRleHQgeD0iODQwIiB5PSI4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjM0E5QUFBIiBsZXR0ZXItc3BhY2luZz0iMSI+REVQTE9ZPC90ZXh0PgogIDx0ZXh0IHg9Ijg0MCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMDBCNEQ4Ij5TdHJlYW1saXQ8L3RleHQ+CiAgPHRleHQgeD0iODQwIiB5PSIxMTQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwMEI0RDgiPkNsb3VkPC90ZXh0PgogIDxsaW5lIHgxPSI4MTAiIHkxPSIxMjAiIHgyPSI4NzAiIHkyPSIxMjAiIHN0cm9rZT0iIzFBM0EzQSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8dGV4dCB4PSI4NDAiIHk9IjEzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiMyQTdBOEEiPlB1YmxpYyBVUkw8L3RleHQ+CiAgPHRleHQgeD0iODQwIiB5PSIxNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjMkE3QThBIj5DSS9DRDwvdGV4dD4KICA8dGV4dCB4PSI4NDAiIHk9IjE2MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI4IiBmaWxsPSIjMUE1QTZBIj5QbGFubmVkICDwn5OFPC90ZXh0PgogIDxyZWN0IHg9IjgxMCIgeT0iMTcwIiB3aWR0aD0iNjAiIGhlaWdodD0iMTQiIHJ4PSI0IiBmaWxsPSIjMDBCNEQ4IiBvcGFjaXR5PSIwLjEiIHN0cm9rZT0iIzAwQjREOCIgc3Ryb2tlLXdpZHRoPSIwLjUiIHN0cm9rZS1kYXNoYXJyYXk9IjMgMiIvPgogIDx0ZXh0IHg9Ijg0MCIgeT0iMTgxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjcuNSIgZmlsbD0iIzAwQjREOCI+SG9zdGluZzwvdGV4dD4KCiAgPHRleHQgeD0iNDUwIiB5PSIyMDYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzJBNEE2MCIgbGV0dGVyLXNwYWNpbmc9IjIiPlBZVEhPTiAzLjgrICDCtyAgU1RSRUFNTElUICDCtyAgUFJPUEhFVCAgwrcgIFhHQk9PU1QgIMK3ICBQTE9UTFkgIMK3ICBKT0JMSUIgIMK3ICBTQ0lLSVQtTEVBUk48L3RleHQ+Cjwvc3ZnPgo=" width="100%" alt="Technology Stack"/>
 
-### 📊  Feature 1 — Sales Forecasting with Prophet
+</div>
 
-> Facebook Prophet generates a **30-day forward forecast** with an upper and lower confidence band, so managers never act on a single-point estimate.
+---
 
-```
-  Sales ($)
-     │
-  20k┤              ╭────╮
-     │             ╱      ╲         ┌── Actual (solid line)
-  15k┤  ╭─────────╯        ╲        ├── Forecast (dashed)
-     │ ╱                    ╲───────│── Confidence interval (shaded area)
-  10k┤╱
-     │
-   5k┤
-     └────────────────────────────────────────────────▶ time
-        Jan      Feb      Mar     [  Apr forecast ──▶ ]
-```
+## 06 · Core Features
+
+### 📊 Feature 1 — Sales Forecasting with Prophet
+
+Facebook Prophet generates a **30-day forward forecast** with upper and lower confidence bands so managers never act on a single-point estimate.
 
 **What Prophet captures automatically:**
 - Weekly and yearly seasonality patterns
 - Holiday and special event effects (fully configurable)
 - Trend change-points detected automatically
-- Graceful handling of missing data in the series
+- Graceful handling of missing data
 
-<br/>
-
-### 🔍  Feature 2 — XGBoost Feature Importance
-
-> Answers the question managers always ask: *"Of everything that affects my sales, what actually matters most?"*
-
-```
-  FEATURE IMPORTANCE   (longer bar = stronger driver of revenue)
-
-  Marketing Spend  ████████████████████████████████████  0.42
-  Month of Year    █████████████████████████             0.28
-  Region           ████████████████                      0.16
-  Holiday Flag     ██████████                            0.09
-  Day of Week      █████                                 0.05
-                   0.0              0.2              0.4
-```
-
-<br/>
-
-### 🎚️  Feature 3 — What-If Marketing Simulator
-
-> A real-time slider lets managers stress-test ideas *before* committing any budget.
-
-```
-  Marketing Spend Adjustment
-
-  Less ─────────────────────[●]────────────────── More
-       -50%       -25%       0%      +25%     +50%
-                              ▲           ▲
-                           Current    Testing: +20%
-                           $10,000     $12,000
-
-  Live Impact Preview:
-  ╔══════════════════════════════════════════════╗
-  ║  Forecast change:   +$4,200 per month        ║
-  ║  Estimated ROI:     × 3.5                    ║
-  ║  Model confidence:  HIGH  ●●●○               ║
-  ╚══════════════════════════════════════════════╝
-```
-
-<br/>
-
-### 💡  Feature 4 — Smart Recommendations Engine
-
-> Every session ends with a plain-English action item derived from the current forecast state. No jargon. No p-values. Just the decision.
-
-```
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  💡  RECOMMENDATION                                                  │
-  │                                                                      │
-  │  The North region is showing a downward trend (−6.2% over 14 days). │
-  │  Your simulation shows that a 15% increase in marketing spend        │
-  │  would reverse this trajectory with 83% model confidence.           │
-  │                                                                      │
-  │  Suggested action: Reallocate $1,800 from East to North before       │
-  │  the start of Week 3.                                                │
-  └──────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-### 📈  Feature 5 — Interactive Plotly Visuals
-
-> Every chart is fully interactive. Zoom in on a suspicious week. Hover for exact values. Compare regions side by side.
-
-```
-  Supported interactions:
-  ┌───────────────────────────────────────────────────────┐
-  │  🖱️  Hover     →  Exact value tooltip                │
-  │  🔍  Zoom      →  Click + drag to zoom any region    │
-  │  🤚  Pan       →  Shift + drag to move the view      │
-  │  📸  Download  →  Camera icon exports PNG            │
-  │  🔄  Reset     →  Double-click to restore view       │
-  └───────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-## 06 · Model Deep Dive
-
-<br/>
-
-### 🔮  Prophet — The Architecture of Forecasting
-
-<div align="center">
-
-```
-  Prophet decomposes your time series into additive components:
-
-  y(t)  =  trend(t)  +  seasonality(t)  +  holidays(t)  +  ε(t)
-               │               │                  │             │
-               ▼               ▼                  ▼             ▼
-       Piecewise linear   Fourier series      Binary flags   Noise
-       with change-points  weekly + yearly    per event day
-       auto-detected      (configurable N)
-```
-
-</div>
-
-**Training configuration used in this project:**
-
+**Model configuration:**
 ```python
 model = Prophet(
-    seasonality_mode         = 'multiplicative',  # Grows with the data
-    yearly_seasonality       = True,
-    weekly_seasonality       = True,
-    daily_seasonality        = False,              # Weekly data — not needed
-    changepoint_prior_scale  = 0.05,               # Flexibility of trend
-    interval_width           = 0.95                # 95% confidence bands
+    seasonality_mode        = 'multiplicative',   # Grows with the data
+    yearly_seasonality      = True,
+    weekly_seasonality      = True,
+    daily_seasonality       = False,
+    changepoint_prior_scale = 0.05,               # Flexibility of trend shifts
+    interval_width          = 0.95                # 95% confidence bands
 )
-
-# Inject marketing spend as an external regressor
 model.add_regressor('marketing_spend')
-
-model.fit(train_df)   # train_df: ds, y, marketing_spend columns
+model.fit(train_df)
 forecast = model.predict(future_df)
 ```
 
-<br/>
+**Output columns returned by Prophet:**
 
-**What the output looks like:**
-
-```
-  forecast_df columns returned by Prophet:
-
-  ds            ·  Date
-  yhat          ·  Point forecast (your best estimate)
-  yhat_lower    ·  Lower confidence bound
-  yhat_upper    ·  Upper confidence bound
-  trend         ·  Underlying direction (stripped of seasonality)
-  weekly        ·  Seasonal weekly component
-  yearly        ·  Seasonal yearly component
-```
+| Column | Description |
+|--------|-------------|
+| `yhat` | Point forecast — the best estimate |
+| `yhat_lower` | Lower confidence bound |
+| `yhat_upper` | Upper confidence bound |
+| `trend` | Underlying direction, stripped of seasonality |
+| `weekly` | Weekly seasonal component |
+| `yearly` | Yearly seasonal component |
 
 <br/>
 
-### 🤖  XGBoost — The Architecture of Interpretation
+### 🔍 Feature 2 — XGBoost Feature Importance
 
-<div align="center">
+Answers the question managers always ask: *"Of everything affecting my sales, what actually matters most?"*
 
-```
-  XGBoost builds an ensemble of decision trees.
-  Each tree corrects the prediction errors of the previous one.
-
-  Training Data
-       │
-       ▼
-  ┌──────────┐    ┌──────────┐    ┌──────────┐         ┌──────────┐
-  │  Tree 1  │───▶│  Tree 2  │───▶│  Tree 3  │──  ···  │  Tree N  │
-  │  (rough  │    │ (correct │    │ (correct │         │  Final   │
-  │  approx) │    │ errors 1)│    │ errors 2)│         │  model)  │
-  └──────────┘    └──────────┘    └──────────┘         └──────────┘
-                                                              │
-                                                              ▼
-                                                  Feature Importance Scores
-                                                  (gain · coverage · freq)
-```
-
-</div>
+| Feature | Importance | Meaning |
+|---------|-----------|---------|
+| Marketing Spend | **0.42** | Largest single controllable driver |
+| Month of Year | 0.28 | Strong seasonal patterns |
+| Region | 0.16 | Geography drives real differences |
+| Holiday Flag | 0.09 | Event impact is real but limited |
+| Day of Week | 0.05 | Minor weekly variation |
 
 **Model configuration:**
-
 ```python
 model = XGBRegressor(
-    n_estimators       = 300,    # Number of trees
-    learning_rate      = 0.05,   # Step size — smaller = more stable
-    max_depth          = 4,      # Tree depth — prevents overfitting
-    subsample          = 0.8,    # Use 80% of rows per tree
-    colsample_bytree   = 0.8,    # Use 80% of features per tree
-    early_stopping_rounds = 20,  # Stop if no improvement
-    random_state       = 42
+    n_estimators     = 300,
+    learning_rate    = 0.05,
+    max_depth        = 4,
+    subsample        = 0.8,
+    colsample_bytree = 0.8,
+    random_state     = 42
 )
-
-model.fit(X_train, y_train,
-          eval_set=[(X_val, y_val)],
-          verbose=False)
-
+model.fit(X_train, y_train)
 importances = model.feature_importances_
 ```
 
 <br/>
 
+### 🎚️ Feature 3 — What-If Marketing Simulator
+
+A real-time slider lets managers stress-test ideas before committing any budget. Drag to +20% and the full forecast instantly updates — showing projected revenue impact, estimated ROI, and model confidence level.
+
+<br/>
+
+### 💡 Feature 4 — Smart Recommendations Engine
+
+Every session ends with a plain-English action item derived from the current forecast state. No jargon, no p-values — just the decision.
+
+> *"The North region shows a downward trend (−6.2% over 14 days). A 15% increase in marketing spend would reverse this trajectory with 83% model confidence. Suggested action: reallocate $1,800 from East to North before Week 3."*
+
+<br/>
+
+### 📈 Feature 5 — Interactive Plotly Visuals
+
+Every chart is fully interactive. Zoom in on a suspicious week, hover for exact values, compare regions, export to PNG in one click.
+
 ---
 
 ## 07 · Getting Started
 
-<br/>
-
-### System Requirements
+### Prerequisites
 
 ```
-  ✔  Python 3.8 or higher
-  ✔  Git installed
-  ✔  500 MB free disk space  (dependencies + trained models)
-  ✔  4 GB RAM minimum  ·  8 GB recommended for smooth training
-  ✔  Any OS: Windows · macOS · Linux
+Python 3.8 or higher  ·  Git  ·  ~500 MB free disk  ·  8 GB RAM recommended
+Windows · macOS · Linux — all supported
 ```
 
-<br/>
+### Installation
 
-### Step-by-Step Installation
-
-**① Clone the repository**
-
+**1. Clone the repository**
 ```bash
 git clone https://github.com/LuthandoCandlovu/ai-decision-support.git
 cd ai-decision-support
 ```
 
-**② Create a virtual environment**
-
+**2. Create and activate a virtual environment**
 ```bash
 python -m venv venv
-```
 
-**③ Activate it**
-
-```bash
 # Windows
 venv\Scripts\activate
 
@@ -510,337 +210,161 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-**④ Install all dependencies**
-
+**3. Install all dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
 <details>
-<summary>📦 <b>What gets installed — click to expand</b></summary>
+<summary><b>📦 What gets installed — click to expand</b></summary>
 
 ```
-  streamlit        ·  Dashboard web framework
-  prophet          ·  Facebook time-series forecasting
-  xgboost          ·  Gradient boosting + feature importance
-  pandas           ·  Data manipulation
-  numpy            ·  Numerical computing
-  plotly           ·  Interactive browser charts
-  scikit-learn     ·  Model evaluation and data splitting
-  joblib           ·  Model serialization to disk
-  shap             ·  Explainability (future feature)
+streamlit       · Dashboard web framework
+prophet         · Facebook time-series forecasting
+xgboost         · Gradient boosting + feature importance
+pandas          · Data manipulation
+numpy           · Numerical computing
+plotly          · Interactive browser charts
+scikit-learn    · Model evaluation and data splitting
+joblib          · Model serialization to disk
+shap            · Deep explainability (future feature)
 ```
-
 </details>
 
 <br/>
 
-**⑤ Generate the synthetic dataset**
-
+**4. Generate the synthetic dataset**
 ```bash
 python generate_data.py
 ```
 
-```
-  Output:  data/sales_data.csv
-  Rows:    ~2,600  (5 regions × 520 weekly records)
-  Columns: date · region · sales · marketing_spend · holiday_flag
-```
-
-**⑥ Train both models**
-
+**5. Train both models**
 ```bash
-# Prophet — one serialized model per region
-python train_model.py
-
-# XGBoost — one global model for feature importance
-python train_xgboost.py
+python train_model.py        # Prophet — one serialized model per region
+python train_xgboost.py      # XGBoost — global feature importance model
 ```
 
-```
-  Training time:  approximately 2–4 minutes on a standard laptop
-  Outputs:
-    models/prophet_North.json
-    models/prophet_South.json
-    models/prophet_East.json
-    models/prophet_West.json
-    models/prophet_Central.json
-    models/xgboost_global.joblib
-```
-
-**⑦ Launch the dashboard**
-
+**6. Launch the dashboard**
 ```bash
 streamlit run dashboard/app.py
 ```
 
-```
-  ✔  Local URL:    http://localhost:8501
-  ✔  Network URL:  http://192.168.x.x:8501   ← share with colleagues
-```
-
-<br/>
+> Opens at **http://localhost:8501**
 
 ---
 
 ## 08 · Usage Guide
 
-<br/>
-
-```
-  ┌──────────────────────────────────────────────────────────────────────────┐
-  │                         DASHBOARD LAYOUT                                 │
-  │                                                                          │
-  │  ┌───────────────┐   ┌──────────────────────────────────────────────┐   │
-  │  │   SIDEBAR     │   │   MAIN PANEL                                 │   │
-  │  │               │   │                                              │   │
-  │  │  Region:      │   │   ┌──────────────────────────────────────┐   │   │
-  │  │  [ North ▼]   │   │   │  📊  Historical Sales + 30-Day       │   │   │
-  │  │               │   │   │      Forecast  (Plotly chart)        │   │   │
-  │  │  Date Range:  │   │   └──────────────────────────────────────┘   │   │
-  │  │  [ Jan–Dec ]  │   │                                              │   │
-  │  │               │   │   ┌──────────────────────────────────────┐   │   │
-  │  │  ─────────    │   │   │  🔍  Feature Importance              │   │   │
-  │  │               │   │   │      (Horizontal bar chart)          │   │   │
-  │  │  What-If:     │   │   └──────────────────────────────────────┘   │   │
-  │  │  Spend +20%   │   │                                              │   │
-  │  │  ──[●]──────  │   │   ┌──────────────────────────────────────┐   │   │
-  │  │               │   │   │  💡  Smart Recommendation Banner      │   │   │
-  │  └───────────────┘   │   └──────────────────────────────────────┘   │   │
-  │                      └──────────────────────────────────────────────┘   │
-  └──────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**Five-step decision workflow:**
-
-```
-  STEP 1   Select your region from the sidebar dropdown
-           Options: North · South · East · West · Central
-
-  STEP 2   Study the historical sales trend on the main chart
-           Hover over any point to see the exact value and date
-
-  STEP 3   Read the 30-day forecast and confidence ribbon
-           Dashed line = best estimate · Shaded area = 95% confidence
-
-  STEP 4   Study the feature importance chart below the forecast
-           Understand what is driving — or dragging — your numbers
-
-  STEP 5   Drag the What-If marketing spend slider
-           Watch the forecast update instantly and read the recommendation
-```
-
-<br/>
+| Step | Action | What to Look For |
+|------|--------|-----------------|
+| 1 | Select region from sidebar | Changes all charts and models |
+| 2 | Read the historical sales line | Spot visible trend or seasonal pattern |
+| 3 | Study the forecast ribbon | How wide is the confidence band? |
+| 4 | Check feature importance chart | What is actually driving your numbers? |
+| 5 | Drag the marketing spend slider | Watch the forecast update in real time |
+| 6 | Read the recommendation | Use it directly in your next decision meeting |
 
 ---
 
 ## 09 · Project Structure
 
 ```
-  ai-decision-support/
-  │
-  ├── 📂  dashboard/
-  │   ├── app.py                      ← Main Streamlit entry point
-  │   ├── forecast_engine.py          ← Prophet inference + spend delta logic
-  │   ├── recommendation.py           ← Rule-based recommendation generator
-  │   └── chart_builder.py            ← Plotly chart factory functions
-  │
-  ├── 📂  models/
-  │   ├── prophet_North.json          ← Trained Prophet — North region
-  │   ├── prophet_South.json          ← Trained Prophet — South region
-  │   ├── prophet_East.json           ← Trained Prophet — East region
-  │   ├── prophet_West.json           ← Trained Prophet — West region
-  │   ├── prophet_Central.json        ← Trained Prophet — Central region
-  │   └── xgboost_global.joblib       ← Trained XGBoost global model
-  │
-  ├── 📂  data/
-  │   └── sales_data.csv              ← Synthetic training + test data
-  │
-  ├── 📂  images/
-  │   ├── demo.gif                    ← Dashboard screen recording
-  │   └── architecture.png            ← System architecture diagram
-  │
-  ├── 📂  notebooks/
-  │   ├── 01_explore_data.ipynb       ← EDA and data profiling
-  │   ├── 02_prophet_analysis.ipynb   ← Prophet experiments and tuning
-  │   └── 03_xgboost_shap.ipynb       ← Feature importance and SHAP analysis
-  │
-  ├── 🐍  generate_data.py            ← Synthetic dataset generator
-  ├── 🐍  train_model.py              ← Prophet training script
-  ├── 🐍  train_xgboost.py            ← XGBoost training script
-  ├── 📄  requirements.txt            ← Python package dependencies
-  ├── 📄  .gitignore                  ← Files to exclude from Git
-  └── 📄  README.md                   ← This file
+ai-decision-support/
+│
+├── 📂  dashboard/
+│   ├── app.py                    ← Main Streamlit entry point
+│   ├── forecast_engine.py        ← Prophet inference + spend delta logic
+│   ├── recommendation.py         ← Plain-English recommendation generator
+│   └── chart_builder.py          ← Plotly chart factory functions
+│
+├── 📂  models/
+│   ├── prophet_North.json
+│   ├── prophet_South.json
+│   ├── prophet_East.json
+│   ├── prophet_West.json
+│   ├── prophet_Central.json
+│   └── xgboost_global.joblib
+│
+├── 📂  data/
+│   └── sales_data.csv
+│
+├── 📂  images/
+│   └── demo.gif                  ← Dashboard screen recording
+│
+├── 🐍  generate_data.py
+├── 🐍  train_model.py
+├── 🐍  train_xgboost.py
+├── 📄  requirements.txt
+└── 📄  README.md                 ← All diagrams embedded inside this file
 ```
-
-<br/>
 
 ---
 
-## 10 · Tech Stack
+## 10 · Performance Benchmarks
+
+**Model accuracy** — evaluated on 20% held-out test set:
+
+| Model | MAE | RMSE | Score |
+|-------|-----|------|-------|
+| Prophet | $812 | $1,043 | MAPE: **5.8%** |
+| XGBoost | $724 | $988 | R²: **0.91** |
+
+**Runtime performance** — MacBook Pro M1, 8 GB RAM:
+
+| Task | Duration |
+|------|----------|
+| Prophet training (5 regions) | ~85 seconds |
+| XGBoost global training | ~12 seconds |
+| Dashboard cold start | ~4 seconds |
+| Forecast generation per query | < 200ms |
+| Slider What-If update | **< 100ms** |
+
+---
+
+## 11 · Roadmap
+
+| Status | Phase | Feature |
+|--------|-------|---------|
+| ✅ | Foundation | Prophet time-series forecasting per region |
+| ✅ | Foundation | XGBoost feature importance |
+| ✅ | Foundation | Interactive Streamlit dashboard |
+| ✅ | Foundation | Real-time What-If marketing slider |
+| ✅ | Foundation | Dynamic plain-English recommendations |
+| 🔄 | Depth | SHAP waterfall plots for per-prediction explainability |
+| 🔄 | Depth | Multi-product support beyond single sales metric |
+| 🔄 | Depth | Anomaly detection alerts on spikes or drops |
+| 🔄 | Depth | Export forecast and recommendations to PDF |
+| 📅 | Scale | PostgreSQL and BigQuery live data connector |
+| 📅 | Scale | Streamlit Cloud deployment with public URL |
+| 📅 | Scale | User authentication + multi-tenant workspace |
+| 📅 | Scale | Automated weekly model retraining pipeline |
+
+---
+
+## 12 · Contributing
+
+```bash
+# 1 — Fork the repository on GitHub
+
+# 2 — Create a feature branch
+git checkout -b feature/your-feature-name
+
+# 3 — Commit with a clear message
+git commit -m "feat: add SHAP waterfall chart to dashboard"
+
+# 4 — Push and open a Pull Request
+git push origin feature/your-feature-name
+```
+
+Good ideas: SHAP plots · new region data · unit tests · new chart types · docs · translations
+
+---
+
+## 13 · License & Contact
 
 <div align="center">
 
-```
-  ╔═════════════════╦══════════════════════╦══════════════════════════════╗
-  ║  LAYER          ║  TECHNOLOGY          ║  PURPOSE                     ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Language       ║  Python 3.8+         ║  Core runtime                ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Frontend       ║  Streamlit           ║  Dashboard UI framework      ║
-  ║                 ║  Plotly              ║  Interactive browser charts   ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Forecasting    ║  Facebook Prophet    ║  Time-series prediction       ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  ML             ║  XGBoost             ║  Feature importance scores    ║
-  ║                 ║  scikit-learn        ║  Evaluation and data split    ║
-  ║                 ║  SHAP  (planned)     ║  Deep model explainability    ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Data           ║  Pandas              ║  Data manipulation            ║
-  ║                 ║  NumPy               ║  Numerical operations         ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Serialisation  ║  Joblib              ║  Save and load trained models ║
-  ╠═════════════════╬══════════════════════╬══════════════════════════════╣
-  ║  Deployment     ║  Streamlit Cloud     ║  Hosting  (planned)           ║
-  ╚═════════════════╩══════════════════════╩══════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,github,vscode,anaconda&theme=dark" />
-</div>
-
-<br/>
-
----
-
-## 11 · Performance
-
-<br/>
-
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │  MODEL ACCURACY  (evaluated on 20% held-out test set)               │
-  │                                                                     │
-  │  Prophet                                                            │
-  │    MAE        $812        Mean absolute error in dollar terms       │
-  │    RMSE       $1,043      Root mean squared error                   │
-  │    MAPE       5.8%        Within 6% on average — production grade   │
-  │                                                                     │
-  │  XGBoost                                                            │
-  │    R²         0.91        Explains 91% of sales variance            │
-  │    MAE        $724                                                  │
-  │    RMSE       $988                                                  │
-  └─────────────────────────────────────────────────────────────────────┘
-
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │  RUNTIME PERFORMANCE  (MacBook Pro M1, 8 GB RAM)                    │
-  │                                                                     │
-  │  Training — Prophet, 5 regions          ~85 seconds                 │
-  │  Training — XGBoost global model        ~12 seconds                 │
-  │  Dashboard cold start                   ~4 seconds                  │
-  │  Forecast generation per query          < 200 ms                    │
-  │  Slider What-If update                  < 100 ms  ← feels instant   │
-  └─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-## 12 · Roadmap
-
-<br/>
-
-```
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  PHASE 1  ·  Foundation                                       DONE  ✅  ║
-  ╠══════════════════════════════════════════════════════════════════════════╣
-  ║   ✅  Prophet time-series forecasting (per region model)                ║
-  ║   ✅  XGBoost global feature importance                                 ║
-  ║   ✅  Interactive Streamlit dashboard                                   ║
-  ║   ✅  Real-time What-If marketing spend slider                          ║
-  ║   ✅  Dynamic plain-English recommendation engine                       ║
-  ╠══════════════════════════════════════════════════════════════════════════╣
-  ║  PHASE 2  ·  Depth                                         BUILDING  🔄 ║
-  ╠══════════════════════════════════════════════════════════════════════════╣
-  ║   🔄  SHAP waterfall plots for per-prediction explainability            ║
-  ║   🔄  Multi-product support beyond single sales metric                  ║
-  ║   🔄  Anomaly detection alerts on unexpected spikes or drops            ║
-  ║   🔄  Export forecast and recommendations to PDF report                 ║
-  ╠══════════════════════════════════════════════════════════════════════════╣
-  ║  PHASE 3  ·  Scale                                          PLANNED  📅 ║
-  ╠══════════════════════════════════════════════════════════════════════════╣
-  ║   📅  PostgreSQL and BigQuery connector for live production data        ║
-  ║   📅  Streamlit Cloud deployment with public shareable URL              ║
-  ║   📅  User authentication with multi-tenant workspace isolation         ║
-  ║   📅  Automated weekly retraining pipeline                              ║
-  ║   📅  Mobile-responsive layout for tablet and phone                     ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-## 13 · Contributing
-
-All contributions are warmly welcome — from a one-line typo fix to a full new feature.
-
-```
-  HOW TO CONTRIBUTE
-
-  1.  Fork the repo
-        https://github.com/LuthandoCandlovu/ai-decision-support/fork
-
-  2.  Create a feature branch
-        git checkout -b feature/your-feature-name
-
-  3.  Make changes and write clear commit messages
-        git commit -m "feat: add SHAP waterfall chart to dashboard"
-
-  4.  Push the branch
-        git push origin feature/your-feature-name
-
-  5.  Open a Pull Request and describe what you built and why
-```
-
-**Good contribution ideas:**
-
-```
-  🐛  Bug fix          ·  Open an issue first to confirm the bug
-  🌍  New region       ·  Add data and retrain for your geography
-  📊  New chart type   ·  Candlestick, heatmap calendar, scatterplot
-  🧪  Unit tests       ·  Improve coverage for forecast_engine.py
-  📖  Documentation    ·  Better inline comments, tutorials, examples
-  🌐  Translations     ·  README in additional languages
-```
-
-<br/>
-
----
-
-## 14 · License & Contact
-
-<div align="center">
-
-```
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │                          MIT LICENSE                                 │
-  │                                                                      │
-  │  Free to use  ·  Free to modify  ·  Free to distribute              │
-  │  Keep the attribution. See LICENSE file for full legal terms.        │
-  └──────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**Built with precision and purpose by Luthando Candlovu**
+**Distributed under the MIT License — free to use, modify, and distribute.**
 
 <br/>
 
@@ -853,20 +377,15 @@ All contributions are warmly welcome — from a one-line typo fix to a full new 
 </a>
 &nbsp;
 <a href="https://github.com/LuthandoCandlovu/ai-decision-support">
-<img src="https://img.shields.io/badge/Project-Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-```
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   If this project helped you — a ⭐ star takes 2 seconds
-   and tells the world this work is worth finding.
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+> ⭐ If this project helped you — a star on GitHub takes 2 seconds and means a lot.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=140&section=footer&text=Built%20with%20precision.%20Designed%20with%20purpose.&fontSize=16&fontColor=00B4D8&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=130&section=footer&text=Built%20with%20precision.%20Designed%20with%20purpose.&fontSize=15&fontColor=00B4D8&fontAlignY=65" width="100%"/>
 
 </div>
