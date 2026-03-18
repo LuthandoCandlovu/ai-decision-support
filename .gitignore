@@ -1,0 +1,28 @@
+﻿# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit secrets (if any)
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional – if you want to keep data out of repo)
+# data/*.csv
+
+# Models (optional – if you want to keep models out, but they are small)
+# models/*.pkl
